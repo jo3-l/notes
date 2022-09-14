@@ -25,7 +25,7 @@ Assume that the actual width of a room is $\pu{5.32000 m}$, and the following me
 Accuracy can be quantified as percent deviation from expected value.
 
 $$
-\text{percent deviation} = \frac{\text{experimental} - \text{theoretical}}{\text{theoretical}} \times 100
+\text{percent deviation} = \frac{\text{experimental} - \text{theoretical}}{\text{theoretical}} \times 100\%
 $$
 
 # Quantifying Precision

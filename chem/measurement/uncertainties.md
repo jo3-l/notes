@@ -33,20 +33,20 @@ E.g. side length of square is $\pu{(12.4 \pm 0.1)cm}$, then perimeter is $\pu{(4
 ## Multiplication and division
 Fractional uncertainty of the result is the sum of the fractional uncertainty of the operands.
 
-E.g. if $a = \pu{(2.5 \pm 0.1)cm}$, $b = \pu{(5.0 \pm 0.1)cm}$, then fractional uncertainty of result is
+E.g. if $a = \pu{(2.5 \pm 0.1)cm}$, $b = \pu{(5.0 \pm 0.1)cm}$, then fractional uncertainty of $a \times b$ is
 
 $$
 \frac{0.1}{2.5} + \frac{0.1}{5.0} = \frac{3}{50} = 6\%
 $$
 
-so the absolute uncertainty is $12.5 \times 6\% = 0.75$. Thus the result is $\pu{(12.5 \pm 0.8)cm^2}$. 
+so the absolute uncertainty is $12.5 \times 6\% = 0.75$. Thus the result is $\pu{(12.50 \pm 0.75)cm^2}$. 
 
 ## Powers and roots
 
 Fractional exponent of the result is the fractional uncertainty of the quantity multiplied by the absolute value of the power.
 
-For example, if we have $t = \pu{(2.36 \pm 0.04)s}$ which has fractional uncertainty $\dfrac{0.04}{2.36} \approx 1.695\%$. The fractional uncertainty of the result should thus be $1.695\% \times 2 \approx 3.39\%$.
+For example, suppose we have $t = \pu{(2.36 \pm 0.04)s}$ which has fractional uncertainty $\dfrac{0.04}{2.36} \approx 1.695\%$. The fractional uncertainty of $t^2$ should then be $1.695\% \times 2 \approx 3.39\%$.
 
 # Uncertainty and s.f.
 
-Round digits to the uncertainty if provided. E.g. if a value of $\pu{20.01m}$ is given with an uncertainty of $\pm \pu{0.1m}$, the value should be $\pu{20.0m} \pm \pu{0.1m}$.
+Always round digits to the uncertainty if provided. E.g. if a value of $\pu{20.01m}$ is given with an uncertainty of $\pm \pu{0.1m}$, the value should be $\pu{20.0m} \pm \pu{0.1m}$.
