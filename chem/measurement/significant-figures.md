@@ -18,7 +18,7 @@ Significant figures (s.f. or "sig figs" for short) indicate how precise a measur
 
 ---
 
-**Rule 2:** Everything to the right of a decimal point is significant. Note that ideally, A decimal point should not be used without a following digit 
+**Rule 2:** Everything to the right of a decimal point is significant. Note that ideally, a decimal point should not be used without a following digit 
 
 - $1.0$ has 3 s.f.
 - $10$ has only 1 s.f.
