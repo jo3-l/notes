@@ -15,7 +15,6 @@
 - **Langston Hughes:** Acclaimed writer who wrote about the African American experience
 - **Claude McKay:** Writer; authored the most popular novel written by an African American at the time of publishing, _Home to Harlem_
 
-
 # Sources
 
 - https://www.history.com/topics/roaring-twenties/harlem-renaissance

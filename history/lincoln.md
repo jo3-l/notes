@@ -50,4 +50,3 @@
 
 - https://www.britannica.com/biography/Abraham-Lincoln
 - https://www.si.edu/spotlight/highlights-abraham-lincoln-1809-1865
-- 
