@@ -68,4 +68,6 @@ Uncertainty rules override s.f. rules.
 
 - $\underbrace{3.21}_{\text{2 d.p.}} + \underbrace{4.1}_{\text{1 d.p.}} = 7.32 \approx \underbrace{7.3}_{\text{1 d.p.}}$
 
-Note that when adding/subtracting numbers in scientific notation, the number of decimal places is determined by the coefficients. So $1.23 \times 10^2$ has 2 d.p., though its expanded form -- $123$ -- has 0 d.p.
+When adding/subtracting numbers in scientific notation, change both numbers to the same exponent first. Then, round the result to the least number of decimal places in the coefficients of the operands. For example:
+
+- $1.23 \times 10^{2} + 4.51 \times 10^{1} = \underbrace{1.23 \times 10^{2}}_{\text{2 d.p.}} + \underbrace{0.451 \times 10^{2}}_{\text{3 d.p.}} \approx \underbrace{1.68 \times 10^2}_{\text{2 d.p.}}$
