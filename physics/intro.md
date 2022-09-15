@@ -21,4 +21,4 @@ Physics is an experimental discipline, though there are purely theoretical aspec
 
 # Accuracy, Precision and Uncertainty
 
-See [[accuracy-precision-uncertainty]].
+See [[accuracy-and-precision | Accuracy and Precision]] in the Chemistry section.

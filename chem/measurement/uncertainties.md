@@ -15,7 +15,13 @@ Reading uncertainties are a type of random uncertainty (e.g. using a ruler to me
 
 The uncertainty in reading an **analogue device** like a ruler is half its smallest width. For example, a ruler with $\pu{0.2cm}$ markings would have an uncertainty of $\pm \pu{0.1cm}$.
 
+Note that if measuring the width of an object using a ruler, one must account for uncertainty on both ends of the ruler, so the final uncertainty may need to be multiplied by two.
+
+---
+
 The uncertainty in reading a **digital device** like a stopwatch is $\pm 1$ in the least significant digit. E.g. if a stopwatch reads $\pu{15.52s}$ the least significant digit is the $2$ and so the uncertainty is $\pu{0.01s}$.
+
+Again, note that if we are measuring the time elapsed since a certain point, uncertainty at the start and end points must both be accounted for. Thus, if one uses a stopwatch to time a race and obtains a measurement of $\pu{17.85s}$, the measurement with uncertainty should be $\pu{(17.85 \pm 0.02)s}$.
 
 # Propagation of uncertainties
 
