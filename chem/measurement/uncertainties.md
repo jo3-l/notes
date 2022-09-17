@@ -25,7 +25,7 @@ Percentage uncertainty and fractional uncertainty are sometimes collectively ref
 
 # Sources of uncertainty
 
-See [[sources-of-uncertainty | sources of uncertainty]]. 
+See [[errors]]. 
 
 # Calculations with uncertainties
 

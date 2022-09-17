@@ -2,7 +2,7 @@
 
 **Accuracy:** An accurate measurement is close to the actual value.
 
-**Precise:** A precise measurement is _reproducible_. That is, if a precise measurement is repeated many times, the individual values are close to each other (but not necessarily to the expected value.) For the purposes of IB chemistry, more s.f. equates to higher precision.
+**Precise:** A precise measurement is _reproducible_. That is, if a precise measurement is repeated many times, the individual values are close to each other (but not necessarily to the expected value.) **For the purposes of IB chemistry, more s.f. equates to higher precision.**
 
 An instrument may be precise yet inaccurate; this occurs when it hasn't been calibrated properly.
 
