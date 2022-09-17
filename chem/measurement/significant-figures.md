@@ -76,7 +76,7 @@ When adding/subtracting numbers in scientific notation, change both numbers to t
 
 ## Mixed operations
 
-When performing mixed operations with s.f., **round once at the end, not in between operations.** Doing the latter may lead to incorrect answers. For example, if we have
+When performing mixed operations with s.f., **round once at the end, never in intermediate calculations.** Doing the latter may lead to incorrect answers. For example, if we have
 
 $$
 \begin{align}

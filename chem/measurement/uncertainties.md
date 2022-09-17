@@ -55,6 +55,10 @@ For example, suppose we have $t = \pu{(2.36 \pm 0.04)s}$ which has fractional un
 
 # Uncertainty and s.f.
 
+**Do not round uncertainties in intermediate calculations; only do so at the end.** Similar reasoning as in [[significant-figures#Mixed operations | mixed operations with s.f.]] applies.
+
 **The absolute uncertainty must always be quoted to 1 and only 1 s.f. Round if necessary.**
 
-Always round digits to the uncertainty if provided; the value and the uncertainty should have the same number of decimal places. E.g. if a value of $\pu{20.01m}$ is given with an uncertainty of $\pm \pu{0.1m}$, the value should be $\pu{20.0m} \pm \pu{0.1m}$.
+For example, $\pu{(12.34 \pm 0.12)cm}$ should be rounded to $\pu{(12.3 \pm 0.1)cm}$.
+
+**Always round digits to the uncertainty if provided**; the value and the uncertainty should have the same number of decimal places. E.g. if a value of $\pu{20.01m}$ is given with an uncertainty of $\pm \pu{0.1m}$, the value should be $\pu{20.0m} \pm \pu{0.1m}$.
