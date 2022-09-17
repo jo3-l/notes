@@ -1,34 +1,33 @@
 # Uncertainty
 
-Two main types of uncertainty/experimental error:
+Typically when one makes a measurement, there is some degree of uncertainty: the true value may be less than or greater than the measurement. Put differently, there is a range of possible values. The most common way to show the range of values is
 
-- **Systematic error:** Biases measurements in the same direction; all too large or too small. E.g., ammeter that displays $\pu{0.1A}$ even if there is no current will lead all measurements being greater by $\pu{0.1A}$.
-- **Random error:** Unbiased; revealed when repeated measurements of same quantity show different values. E.g. multiple people use stopwatch to time a race -- all start at slightly different times.
+$$
+\text{measurement} = \text{best esimate} \pm \text{uncertainty}
+$$
 
-Random errors are the fault of the observer, whereas systematic errors are the fault of both the observer and the instrument.
+e.g., $\pu{(5.07 \pm 0.02)g}$ means that we got a measurement of $\pu{5.07g}$, but it may be off by $\pu{0.02g}$ in either direction.
 
-To avoid random uncertainties one can take multiple measurements and average them out. 
+## Formal definition
 
-# Reading uncertainties
-
-Reading uncertainties are a type of random uncertainty (e.g. using a ruler to measure an object that lies between two markings on a the ruler.)
-
-The uncertainty in reading an **analogue device** like a ruler is half its smallest width. For example, a ruler with $\pu{0.2cm}$ markings would have an uncertainty of $\pm \pu{0.1cm}$.
-
-Note that if measuring the width of an object using a ruler, one must account for uncertainty on both ends of the ruler, so the final uncertainty may need to be multiplied by two.
-
----
-
-The uncertainty in reading a **digital device** like a stopwatch is $\pm 1$ in the least significant digit. E.g. if a stopwatch reads $\pu{15.52s}$ the least significant digit is the $2$ and so the uncertainty is $\pu{0.01s}$.
-
-Again, note that if we are measuring the time elapsed since a certain point, uncertainty at the start and end points must both be accounted for. Thus, if one uses a stopwatch to time a race and obtains a measurement of $\pu{17.85s}$, the measurement with uncertainty should be $\pu{(17.85 \pm 0.02)s}$.
-
-# Propagation of uncertainties
-
-First, some definitions. For a measurement $a = a_{0}+ \Delta a$, we have:
+For a measurement $a = a_{0}+ \Delta a$, we have:
 - absolute uncertainty = $\Delta a$
 - fractional uncertainty = $\dfrac{\Delta a}{a_0}$
 - percentage uncertainty = $\dfrac{\Delta a}{a_{0}}\times 100\%$
+
+Percentage uncertainty and fractional uncertainty are sometimes collectively referred to as **relative uncertainty.**
+
+## Precision
+
+**The absolute uncertainty must always be quoted to 1 and only 1 s.f. Round if necessary.** E.g., $\pu{(12.34 \pm 0.12)cm}$ should be rounded to $\pu{(12.3 \pm 0.1)cm}$.
+
+**Always round digits to the absolute uncertainty if provided**; the value and the absolute uncertainty should have the same number of decimal places. E.g. if a value of $\pu{20.01m}$ is given with an absolute uncertainty of $\pm \pu{0.1m}$, the value should be $\pu{20.0m} \pm \pu{0.1m}$.
+
+# Sources of uncertainty
+
+See [[sources-of-uncertainty | sources of uncertainty]]. 
+
+# Calculations with uncertainties
 
 ## Addition and subtraction
 
@@ -53,12 +52,6 @@ Fractional exponent of the result is the fractional uncertainty of the quantity 
 
 For example, suppose we have $t = \pu{(2.36 \pm 0.04)s}$ which has fractional uncertainty $\dfrac{0.04}{2.36} \approx 1.695\%$. The fractional uncertainty of $t^2$ should then be $1.695\% \times 2 \approx 3.39\%$.
 
-# Uncertainty and s.f.
+## Mixed operations
 
 **Do not round uncertainties in intermediate calculations; only do so at the end.** Similar reasoning as in [[significant-figures#Mixed operations | mixed operations with s.f.]] applies.
-
-**The absolute uncertainty must always be quoted to 1 and only 1 s.f. Round if necessary.**
-
-For example, $\pu{(12.34 \pm 0.12)cm}$ should be rounded to $\pu{(12.3 \pm 0.1)cm}$.
-
-**Always round digits to the uncertainty if provided**; the value and the uncertainty should have the same number of decimal places. E.g. if a value of $\pu{20.01m}$ is given with an uncertainty of $\pm \pu{0.1m}$, the value should be $\pu{20.0m} \pm \pu{0.1m}$.
