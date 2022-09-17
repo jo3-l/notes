@@ -68,6 +68,23 @@ Uncertainty rules override s.f. rules.
 
 - $\underbrace{3.21}_{\text{2 d.p.}} + \underbrace{4.1}_{\text{1 d.p.}} = 7.32 \approx \underbrace{7.3}_{\text{1 d.p.}}$
 
-When adding/subtracting numbers in scientific notation, change both numbers to the same exponent first. Then, round the result to the least number of decimal places in the coefficients of the operands. For example:
+## Scientific notation
+
+When adding/subtracting numbers in scientific notation, change both numbers to the same exponent first. Then, round the result to the least number of decimal places in the **coefficients** of the operands -- the power of 10 may be ignored. For example:
 
 - $1.23 \times 10^{2} + 4.51 \times 10^{1} = \underbrace{1.23 \times 10^{2}}_{\text{2 d.p.}} + \underbrace{0.451 \times 10^{2}}_{\text{3 d.p.}} \approx \underbrace{1.68 \times 10^2}_{\text{2 d.p.}}$
+
+## Mixed operations
+
+When performing mixed operations with s.f., **round once at the end, not in between operations.** Doing the latter may lead to incorrect answers. For example, if we have
+
+$$
+\begin{align}
+&\phantom{{}={}} (\underbrace{2.8}_{\text{2 s.f.}} \times \underbrace{4.532}_{\text{4 s.f.}}) + \underbrace{12.690}_{\text{5 s.f.}} \\
+&= \underbrace{12.6896}_{\text{0 d.p.}} + \underbrace{12.690}_{\text{3 d.p.}} && \text{(keep track of precision, but don't round)} \\
+&= \underbrace{25.3796}_{\text{0 d.p.}} \\
+&= 25. && \text{(round at the end)}
+\end{align}
+$$
+
+If we rounded on the second step, we would have gotten an incorrect final result of $26$.

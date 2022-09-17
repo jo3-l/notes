@@ -45,7 +45,7 @@ $$
 \frac{0.1}{2.5} + \frac{0.1}{5.0} = \frac{3}{50} = 6\%
 $$
 
-so the absolute uncertainty is $12.5 \times 6\% = 0.75$. Thus the result is $\pu{(12.50 \pm 0.75)cm^2}$. 
+so the absolute uncertainty is $12.5 \times 6\% = 0.75$. As the absolute uncertainty must be quoted to 1 s.f., we round to $0.8$. Thus the final result is $\pu{(12.5 \pm 0.8)cm^2}$. 
 
 ## Powers and roots
 
@@ -55,6 +55,6 @@ For example, suppose we have $t = \pu{(2.36 \pm 0.04)s}$ which has fractional un
 
 # Uncertainty and s.f.
 
-Always round digits to the uncertainty if provided; the value and the uncertainty should have the same number of decimal places. E.g. if a value of $\pu{20.01m}$ is given with an uncertainty of $\pm \pu{0.1m}$, the value should be $\pu{20.0m} \pm \pu{0.1m}$.
+**The absolute uncertainty must always be quoted to 1 and only 1 s.f. Round if necessary.**
 
-**The uncertainty must have at least one non-zero digit.**
+Always round digits to the uncertainty if provided; the value and the uncertainty should have the same number of decimal places. E.g. if a value of $\pu{20.01m}$ is given with an uncertainty of $\pm \pu{0.1m}$, the value should be $\pu{20.0m} \pm \pu{0.1m}$.
