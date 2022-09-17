@@ -74,6 +74,12 @@ When adding/subtracting numbers in scientific notation, change both numbers to t
 
 - $1.23 \times 10^{2} + 4.51 \times 10^{1} = \underbrace{1.23 \times 10^{2}}_{\text{2 d.p.}} + \underbrace{0.451 \times 10^{2}}_{\text{3 d.p.}} \approx \underbrace{1.68 \times 10^2}_{\text{2 d.p.}}$
 
+Sometimes performing computations using this rule will produce different answers than in standard notation, which is perfectly fine.
+
+For example, $1.25 \times 10^{3}+ 1.1 \times 10^{3} = 2.35 \times 10^{3} \approx 2.4 \times 10^3$, but if we expand it we get $1250 + 1100 = 2350$ instead.
+
+See [this video from the Organic Chemistry Tutor](https://youtu.be/BmeImtwhfj8?t=2270).
+
 ## Mixed operations
 
 When performing mixed operations with s.f., **round once at the end, never in intermediate calculations.** Doing the latter may lead to incorrect answers. For example, if we have
