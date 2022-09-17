@@ -24,8 +24,8 @@
 - Aimed to abolish slavery (which he eventually achieved through the [[13th-amendment | 13th Amendment]])
 	- However, was not completely in favor of equality for Whites and Blacks:
 	  > "I am not, nor ever have been, in favour of bringing about in any way the social and political equality of the white and Black races [...] I am not nor ever have been in favour of making voters or jurors of Negroes, nor of qualifying them to hold office, nor to intermarry with white people"
-- Ultimately elected as president in 1860
-- Led the Union through the Civil war
+- Elected as president (Republican party candidate) in 1860
+- Led the Union through the Civil War
 
 # Assassination
 

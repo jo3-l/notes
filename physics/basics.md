@@ -22,3 +22,18 @@ Physics is an experimental discipline, though there are purely theoretical aspec
 # Accuracy, Precision and Uncertainty
 
 See [[accuracy-and-precision | Accuracy and Precision]] in the Chemistry section.
+
+# Lab Reports
+
+1. Title, name (first and last initial);
+2. Introduction
+	- Hypothesis
+	- Background theory
+3. Materials
+4. Procedure (paraphrase; don't copy)
+5. Observations (table with units and uncertainties)
+6. Analysis (graphs, sample calculations)
+7. Conclusion
+	- Does the data support the hypothesis? How close (percent deviation?)
+	- Sources of uncertainty -- quantify and mention factors not included in hypothesis
+

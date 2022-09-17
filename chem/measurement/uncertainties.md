@@ -55,4 +55,6 @@ For example, suppose we have $t = \pu{(2.36 \pm 0.04)s}$ which has fractional un
 
 # Uncertainty and s.f.
 
-Always round digits to the uncertainty if provided. E.g. if a value of $\pu{20.01m}$ is given with an uncertainty of $\pm \pu{0.1m}$, the value should be $\pu{20.0m} \pm \pu{0.1m}$.
+Always round digits to the uncertainty if provided; the value and the uncertainty should have the same number of decimal places. E.g. if a value of $\pu{20.01m}$ is given with an uncertainty of $\pm \pu{0.1m}$, the value should be $\pu{20.0m} \pm \pu{0.1m}$.
+
+**The uncertainty must have at least one non-zero digit.**
