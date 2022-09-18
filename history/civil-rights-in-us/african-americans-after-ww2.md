@@ -12,6 +12,7 @@
 - National Association for the Advancement of Colored Peoples (NAACP) was formed to advocate for these individuals
 - Eisenhower presidency (1953 - 61) was receptive to these demands and implemented progressive changes
 - Precedent-setting Supreme Court case *Brown vs. Board of Education of Topeka* ruled that segregation based on race in public schools ran counter to the Constitution
+	- See notes on [[brown-v-board-of-ed | Brown v. Board of Education]]
 - Met resistance in South; in one example, Gov. Faubus of Arkanas deployed National Guard to prevent Black students from attending school in Little Rock in 1957
 	- In response, Pres. Eisenhower deployed federal troops to the school and nine black students -- known as the Little Rock Nine -- were able to enter Central High School
 - Freedom rides (inspired by Rosa Parks) was movement wherein black and white sat together and rode on buses together
@@ -37,8 +38,10 @@
 - **Rosa Parks:** Seamstress who refused to give up her seat to a white man on a bus in Montgomery, Alabama in 1955
 	- Subsequent arrest led local black community, incl. a young Martin Luther King, to organize the Montgomery Bus Protest
 	- Boycott lasted until the following year, when the US Supreme Court ruled that bus segregation was unconstitutional
+	- See notes on [[rosa-parks | Rosa Parks]]
 - **James Meredith:** Civil rights activist; first African American student to be admitted to the University of Mississippi
-- **Martin Luther King, Jr.:** Civil rights activist and Baptist; delivered now-famous speech *I Have a Dream* 
+- **Martin Luther King, Jr.:** Civil rights activist and Baptist; delivered now-famous speech *I Have a Dream*
+	- See notes on [[mlk | Martin Luther King]]
 
 # Sources
 
