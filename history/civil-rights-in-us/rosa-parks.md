@@ -43,7 +43,7 @@
 
 - Parks moved to Detroit in the wake of the ruling due to sustained harassment and threats
 - Became an aide to Congressman John Conyers Jr. in 1965
-- Co-founded Rosa and Raymonds Parks Institute for Self-Development in 1987
+- Co-founded Rosa and Raymond Parks Institute for Self-Development in 1987
 - Awarded Congressional Gold Medal in 1999, the highest honor conferred upon civilians
 - Died at the age of 92 on October 24, 2005
 
