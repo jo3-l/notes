@@ -3,7 +3,7 @@
 Typically when one makes a measurement, there is some degree of uncertainty: the true value may be less than or greater than the measurement. Put differently, there is a range of possible values. The most common way to show the range of values is
 
 $$
-\text{measurement} = \text{best esimate} \pm \text{uncertainty}
+\text{measurement} = \text{best estimate} \pm \text{uncertainty}
 $$
 
 e.g., $\pu{(5.07 \pm 0.02)g}$ means that we got a measurement of $\pu{5.07g}$, but it may be off by $\pu{0.02g}$ in either direction.
@@ -21,7 +21,7 @@ Percentage uncertainty and fractional uncertainty are sometimes collectively ref
 
 **The absolute uncertainty must always be quoted to 1 and only 1 s.f. Round if necessary.** E.g., $\pu{(12.34 \pm 0.12)cm}$ should be rounded to $\pu{(12.3 \pm 0.1)cm}$.
 
-**Always round digits to the absolute uncertainty if provided**; the value and the absolute uncertainty should have the same number of decimal places. E.g. if a value of $\pu{20.01m}$ is given with an absolute uncertainty of $\pm \pu{0.1m}$, the value should be $\pu{20.0m} \pm \pu{0.1m}$.
+**Always round digits to the absolute uncertainty if provided**; the value and the absolute uncertainty should have the same number of decimal places. E.g. if a value of $\pu{20.01m}$ is given with an absolute uncertainty of $\pm \pu{0.1m}$, the value should be rounded to $\pu{20.0m} \pm \pu{0.1m}$.
 
 # Sources of uncertainty
 
