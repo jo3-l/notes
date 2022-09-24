@@ -45,10 +45,15 @@ Can easily see if a relationship exists between two variables, and/or what the r
 - "Best fit" line or curve is the best representation of the relationship between the variables. Should be closest to most data points.
 - Interpretation must be shown on the graph, where necessary.
 
+## Interpolation and extrapolation
+
+- **Interpolation** Estimating an unknown point between two known points.
+- **Extrapolation:** Estimating an unknown point outside the range of points by extending the line/curve.
+
 ## Determining relationship of variables
 
 Decide if the plotted data looks more like:
-1. **Straight line:** can be extended or extrapolated; indicative of a linear relationship.
-2. **Curve or regularly changing pattern:** cannot be extended or extrapolated.
+1. **Straight line:** can be extended and extrapolated; indicative of a linear relationship.
+2. **Curve or regularly changing pattern:** cannot be extended or extrapolated. DO NOT extend past the points plotted.
 3. **No relationship**.
 
