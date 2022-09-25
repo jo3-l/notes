@@ -52,8 +52,8 @@ For example, the conversion rate $\pu{1 inch} = \pu{2.54 cm}$ has $\infty$ s.f.
 When rounding, consider the figure following (i.e., to the right of) the figure that is to be last. The figure you examine is the first figure to be dropped. E.g. when rounding $123$ to 2 s.f. $3$ is the first figure to be dropped.
 
 Now:
-- **If the figure is more than 5**, round up. E.g. $3.78721$ to 3 s.f. is $3.79$.
-- **If the figure is equal to 5**, round the final number so it's even. E.g. $726.835$ rounded to 5 s.f. is $726.84$, $24.85$ rounded to 3 s.f. is $24.8$, not $24.9$.
+- **If the figure is more than 5 or there is a 5 followed by a non-zero digit**, round up. E.g. $3.78721$ to 3 s.f. is $3.79$, $2.651$ to 2 s.f. is $2.7$ because there is a $1$ after the last $5$.
+- **If the figure is equal to 5 and all the digits after are zeros**, round the final number so it's even. E.g. $726.835$ rounded to 5 s.f. is $726.84$, $24.85$ rounded to 3 s.f. is $24.8$, not $24.9$.
 
 # Operations with s.f.
 
