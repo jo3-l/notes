@@ -40,6 +40,8 @@ Can easily see if a relationship exists between two variables, and/or what the r
 
 # Interpreting data
 
+**A GRAPH IS NOT COMPLETE WITHOUT INTERPRETATION (DRAWING LINE THROUGH POINTS / CURVE.) NEVER CONNECT DOTS.**
+
 - Data points that do not fall within the trend of the others may represent errors.
 - Never connect dots; points represent experimental data that have uncertainties associated with them.
 - "Best fit" line or curve is the best representation of the relationship between the variables. Should be closest to most data points.
@@ -53,7 +55,6 @@ Can easily see if a relationship exists between two variables, and/or what the r
 ## Determining relationship of variables
 
 Decide if the plotted data looks more like:
-1. **Straight line:** can be extended and extrapolated; indicative of a linear relationship.
+1. **Straight line:** can be extended and extrapolated; indicative of a linear relationship. **Use a ruler to draw these.**
 2. **Curve or regularly changing pattern:** cannot be extended or extrapolated. DO NOT extend past the points plotted.
 3. **No relationship**.
-
