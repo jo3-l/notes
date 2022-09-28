@@ -40,7 +40,8 @@ Can easily see if a relationship exists between two variables, and/or what the r
 
 # Interpreting data
 
-**A GRAPH IS NOT COMPLETE WITHOUT INTERPRETATION (DRAWING LINE THROUGH POINTS / CURVE.) NEVER CONNECT DOTS.**
+> [!warning]
+> A graph is not complete without interpretation (drawing curve / line through points.) Never connect the points. 
 
 - Data points that do not fall within the trend of the others may represent errors.
 - Never connect dots; points represent experimental data that have uncertainties associated with them.

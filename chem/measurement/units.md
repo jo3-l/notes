@@ -8,8 +8,10 @@
 - Almost always lower-case letters unless named for a person (except L for litres)
 - Full names are usually written in lower case letters (except for degrees Celsius)
 - Unit symbols are never pluralized
-- Symbols should only be followed by a period at the end of a sentence, e.g., "the penny had a mass of 2.25 g"
-- **There is a space between the numerical value and the unit symbol (5.2 g, not 5.2g)**
+- Symbols should only be followed by a period at the end of a sentence, e.g., "the penny had a mass of 2.25 g."
+
+> [!note]
+> Remember to add a space between the numerical value and the unit symbol (5.2 g, not 5.2g).
 
 ## SI base units
 

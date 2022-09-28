@@ -8,7 +8,7 @@ $$
 
 e.g., $\pu{(5.07 \pm 0.02)g}$ means that we got a measurement of $\pu{5.07g}$, but it may be off by $\pu{0.02g}$ in either direction.
 
-## Formal definition
+## Definition
 
 For a measurement $a = a_{0}+ \Delta a$, we have:
 - absolute uncertainty = $\Delta a$
@@ -17,11 +17,13 @@ For a measurement $a = a_{0}+ \Delta a$, we have:
 
 Percentage uncertainty and fractional uncertainty are sometimes collectively referred to as **relative uncertainty.**
 
-## Precision
+## Rounding
 
-**The absolute uncertainty must always be quoted to 1 and only 1 s.f. Round if necessary.** E.g., $\pu{(12.34 \pm 0.12)cm}$ should be rounded to $\pu{(12.3 \pm 0.1)cm}$.
+> [!important] Key Point
 
-**Always round digits to the absolute uncertainty if provided**; the value and the absolute uncertainty should have the same number of decimal places. E.g. if a value of $\pu{20.01m}$ is given with an absolute uncertainty of $\pm \pu{0.1m}$, the value should be rounded to $\pu{20.0m} \pm \pu{0.1m}$.
+ **The absolute uncertainty in the final answer must always be quoted to 1 and only 1 s.f. Round if necessary.** E.g., $\pu{(12.34 \pm 0.12)cm}$ should be rounded to $\pu{(12.3 \pm 0.1)cm}$.
+ 
+**Always round digits to match the uncertainty**; the value and the absolute uncertainty should have the same number of decimal places. E.g. if a value of $\pu{20.01m}$ is given with an absolute uncertainty of $\pm \pu{0.1m}$, the value should be rounded to $\pu{20.0m} \pm \pu{0.1m}$.
 
 # Sources of uncertainty
 
@@ -54,4 +56,6 @@ For example, suppose we have $t = \pu{(2.36 \pm 0.04)s}$ which has fractional un
 
 ## Mixed operations
 
-**Do not round uncertainties in intermediate calculations; only do so at the end.** Similar reasoning as in [[significant-figures#Mixed operations | mixed operations with s.f.]] applies.
+> [!warning] Common Mistake
+
+When performing a series of operations with uncertainties, **do not round in intermediate calculations; only do so at the end.** Similar reasoning as in [[significant-figures#Mixed operations | mixed operations with s.f.]] applies.
