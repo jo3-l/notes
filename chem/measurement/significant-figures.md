@@ -61,14 +61,17 @@ Now:
 
 # Operations with s.f.
 
-Uncertainty rules override s.f. rules.
+> [!note]
+> Uncertainty rules override s.f. rules.
 
 **Multiplication, division, n-th roots, exponentiation:** result has as many s.f. as the least number of s.f. in the operands:
 
 - $\underbrace{23}_{\text{2 s.f.}} \times \underbrace{578}_{\text{3 s.f.}} = 13294 \approx \underbrace{1.3 \times 10^4}_{\text{2 s.f.}}$
 - $\underbrace{12.3^3}_{\text{3 s.f.}} = 1860.867... \approx \underbrace{1.86 \times 10^3}_{\text{3 s.f.}}$
 
-**Addition, subtraction:** result has as many _decimal places_ as the least number of decimal places in the operands:
+> [!warning] Common Mistake
+
+**Addition, subtraction:** result has as many **decimal places** (NOT s.f.) as the least number of decimal places in the operands:
 
 - $\underbrace{3.21}_{\text{2 d.p.}} + \underbrace{4.1}_{\text{1 d.p.}} = 7.32 \approx \underbrace{7.3}_{\text{1 d.p.}}$
 
