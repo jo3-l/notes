@@ -23,7 +23,7 @@ Percentage uncertainty and fractional uncertainty are sometimes collectively ref
 
  **The absolute uncertainty in the final answer must always be quoted to 1 and only 1 s.f. Round if necessary.** E.g., $\pu{(12.34 \pm 0.12)cm}$ should be rounded to $\pu{(12.3 \pm 0.1)cm}$.
  
-**Always round digits to match the uncertainty**; the value and the absolute uncertainty should have the same number of decimal places. E.g. if a value of $\pu{20.01m}$ is given with an absolute uncertainty of $\pm \pu{0.1m}$, the value should be rounded to $\pu{20.0m} \pm \pu{0.1m}$.
+**Always round digits to match the uncertainty**; the value and the absolute uncertainty should have the same number of decimal places. E.g. if a value of $\pu{20.01m}$ is given with an absolute uncertainty of $\pm \pu{0.1m}$, the value should be rounded to $\pu{20.0m} \pm \pu{0.1m}$. Similarly if we have a value of $\pu{10567m}$ with an absolute uncertainty of $\pu{15m}$, the value should be rounded to $\pu{(10570 \pm 15)m}$.
 
 # Sources of uncertainty
 
@@ -47,6 +47,14 @@ $$
 $$
 
 so the absolute uncertainty is $12.5 \times 6\% = 0.75$. As the absolute uncertainty must be quoted to 1 s.f., we round to $0.8$. Thus the final result is $\pu{(12.5 \pm 0.8)cm^2}$. 
+
+> [!tip]
+> When multiplying or dividing a value by an exact value, the absolute uncertainty of the result is multiplied/divided as well. (The relative uncertainty stays the same.)
+> 
+> For example
+> $$
+> 5 \times \pu{(2.5 \pm 0.1)m} = \pu{(12.5 \pm 0.5)m}
+> $$
 
 ## Powers and roots
 
