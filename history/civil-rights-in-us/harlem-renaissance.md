@@ -20,7 +20,7 @@
 - As more and more Blacks migrated to the North as a result of the Great Migration, Harlem became a cultural center
 - Nearly 175,000 African Americans settled in Harlem (meaning it had one of the highest concentrations of black people in the world), including some of the brightest minds of the era
 	- Between the end of WW1 and the 1930s, these individuals helped redefine African American culture through producing significant works of literature, music, stage performance and art; this period of time was therefore deemed the **Harlem Renaissance**
-- Unique feature of the Harlem Renaissance was its close relationship to civil rights movements and reform organizations
+- Unique feature of the Harlem Renaissance was its close relation to civil rights movements and reform organizations
 	- Magazines like _The Crisis_ (published by the National Association for the Advancement of Colored People); _Opportunity_ (published by the National Urban League) and _The Messenger_ were key parts of the movement
 - Harlem Renaissance was cut short by the Stock Market Crash of 1929 and the subsequent Great Depression, wherein financial support for the arts and Black businesses dwindled
 

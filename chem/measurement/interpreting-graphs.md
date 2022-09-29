@@ -36,7 +36,7 @@ $$
 A \propto D^2
 $$
 
-Thus we can choose to "straighten out" the line by instead plotting $A$ vs $D^2$. Compare:
+Then we can choose to "straighten out" the line by instead plotting $A$ vs $D^2$. Compare:
 
 ![[graphing-20220928.17.05.46.excalidraw | 350]]
 
