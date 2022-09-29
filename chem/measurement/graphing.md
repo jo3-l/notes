@@ -26,36 +26,19 @@ Can easily see if a relationship exists between two variables, and/or what the r
 	- Title should be at top of the graph or in the top part of the graph line portion.
 	- Eg., "Volume (of gas produced) vs. Time (of experiment)"
 2. **Axes and labels:** Horizontal is for independent variable and vertical is for independent variable. All measured variables have units, so axis labels must as well.
-3. **Zero point:** should be plotted iff two variables represent a valid piece of data when they both have a value of zero.
    
-   If there is not a real zero point, or you do not know if one is possible, you should not include one on your graph.
+   Each axis scale should be linear (or in rare scenarios, logarithmic.) Use scientific notation for very small or very large numbers; do not use fractions.
    
-    **Good example:** when there is 0.0g of mass, there is 0.0mL of volume.
-    **Bad example:** volume of a gas between 40 and 50 degrees. Volume of the gas will not be 0.0mL at 0 degrees.
-4. **Axis scale uniformity and full use of graph**
-	- Each axis scale should be linear and regular divisions of the scale values.
-	- Use scientific notation for very small or very large numbers. No fractions.
-	- Do not make a scale out of only your actual data points. For each variable, look at upper and lower values of each set of data and make a scale to fit the data.
-	- Plot data points over the full range of the graph paper given.
+   > [!important]
+   > When creating a scale, try to make it so the data points use as much of the graph as possible: for example, if the y-values only go from 0 to 53, do not make the scale be from 0 to 100. 
 
-# Interpreting data
+> [!note] Zero point
+> The origin $(0, 0)$ should be plotted iff two variables represent a valid piece of data when they both have a value of zero.
+> 
+> If there is not a real zero point, or you do not know if one is possible, you should not include one on your graph.
+> 
+>  **Good example:** when there is 0.0g of mass, there is 0.0mL of volume.
+>  **Bad example:** volume of a gas between 40 and 50 degrees. Volume of the gas will not be 0.0mL at 0 degrees.
 
 > [!warning]
-> A graph is not complete without interpretation (drawing curve / line through points.) Never connect the points. 
-
-- Data points that do not fall within the trend of the others may represent errors.
-- Never connect dots; points represent experimental data that have uncertainties associated with them.
-- "Best fit" line or curve is the best representation of the relationship between the variables. Should be closest to most data points.
-- Interpretation must be shown on the graph, where necessary.
-
-## Interpolation and extrapolation
-
-- **Interpolation** Estimating an unknown point between two known points.
-- **Extrapolation:** Estimating an unknown point outside the range of points by extending the line/curve.
-
-## Determining relationship of variables
-
-Decide if the plotted data looks more like:
-1. **Straight line:** can be extended and extrapolated; indicative of a linear relationship. **Use a ruler to draw these.**
-2. **Curve or regularly changing pattern:** cannot be extended or extrapolated. DO NOT extend past the points plotted.
-3. **No relationship**.
+> A graph is not complete without interpretation (drawing curve / line through points.) See [[interpreting-graphs | Interpreting Graphs]] for more. 

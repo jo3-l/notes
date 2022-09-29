@@ -14,8 +14,7 @@
 
 # Harlem Renaissance
 
-- Harlem was a neighborhood in Manhattan originally intended for upper-class whites only
-- However, landlords overestimated the demand and thus many buildings remained empty
+- Harlem was a neighborhood in Manhattan originally intended for upper-class whites only; however, landlords overestimated the demand and thus many buildings remained empty
 - Out of desperation, they eventually caved in and permitted Black families to move in
 	- At the outset, white residents fought to keep them out, but were ultimately unsuccessful and left the area
 - As more and more Blacks migrated to the North as a result of the Great Migration, Harlem became a cultural center
@@ -40,7 +39,7 @@
 	- Established authority of African Americans to define their own representation in arts and media
 - Provided a foundation for future Black civil rights movements
 - However, not without criticism; certain African American writers denounced the Harlem Renaissance for its ties to White sponsors
-	- In particular, Marcus Garvey, founder of the Universal Negro Improvement Association (UNIA) castigated thought leaders of the Harlem Renaissance for being "week-kneed and cringing ... [flatterers of] the white man"
+	- In particular, Marcus Garvey, founder of the Universal Negro Improvement Association (UNIA) castigated thought leaders of the Harlem Renaissance for being "weak-kneed and cringing ... [flatterers of] the white man"
 
 # Sources
 

@@ -1,6 +1,7 @@
 # 13th Amendment
 
-> "Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction".
+> [!quote]
+> Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.
 
 The Thirteenth Amendment to the Constitution of the United States -- signed into law in 1865 following the conclusion of the Civil War -- formally abolished slavery. It was also the first direct mention of slavery in the Constitution.
 
@@ -16,18 +17,19 @@ The Thirteenth Amendment to the Constitution of the United States -- signed into
 - **1815-1861**: economy of Northern states diversified away from agriculture; industrialization took places
 - Investments into transportation systems, financial industries, and communication networks
 - In contrast, Southern economy was based primarily on plantations which produced cotton (and thus was reliant on slaves for labor)
-	- Diversifying seemed an unwise business decision, as price of cotton skyrocketed
-	- Per-capita wealth of Southern whites was 2x Northerners in 1860
+	- As price of cotton skyrocketed, diversifying seemed an unwise business decision
+	- Per-capita wealth of Southern whites was 2x that of Northerners in 1860
 - At the same time, more and more Northerners began supporting abolishing slavery out of a sense of morality
 	- This made white Southerners -- whose livelihoods depended on slave labor -- anxious
-- **1860**: Abraham Lincoln, candidate of the antislavery Republican Party, wins the presidential election
+- **1860**: [[lincoln | Abraham Lincoln]], candidate of the antislavery Republican Party, wins the presidential election
 	- Consequently, South Carolina, Mississippi, Florida, Alabama, Georgia, Louisiana, and Texas secede and form the Confederate States of America
 - **April 2, 1861**: Rebels open fire on Fort Sumter, marking the beginning of the Civil War
-	- More than 4 million people, nearly all of African descent, were enslaved at this time
+- At the start of the Civil War, more than 4 million people, nearly all of African descent, were enslaved
 
 # Emancipation Proclamation
 
-> "[A]ll persons held as slaves within any States, or designated part of the State, the people whereof shall be in rebellion against the United States, shall be then, thenceforward, and forever free."
+> [!quote]
+> [A]ll persons held as slaves within any States, or designated part of the State, the people whereof shall be in rebellion against the United States, shall be then, thenceforward, and forever free.
 
 - Up to 1862, Lincoln, despite being a lifelong opponent of slavery, was conflicted as to how precisely to deal with the matter
 - Became convinced that emancipating (i.e., setting free) slaves in Southern states would be a sound strategical move and would help the North win the war

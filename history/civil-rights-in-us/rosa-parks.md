@@ -1,15 +1,12 @@
 # Early life
 
-- Born in Tuskegee, Alabama on February 4, 1913 to James and Leona McCauley
-- Moved at age 2 to Pine Level, Alabama, to be closer to grandparents
-- Brother Sylvester was born in 1915; parents split shortly thereafter
-- Family relocated again to Montgomery, Alabama, when Rosa was 11
+- Born in Tuskegee, Alabama on February 4, 1913
+- Moved at age 2 to Pine Level, Alabama to be closer to grandparents, and again to Montgomery, Alabama, when Rosa was 11
 - Mother was a teacher and thus did her best to provide Rosa with a good education
 - Attended high school at Alabama State Teachers' College for Negroes
 - Dropped out in 11th grade to care for ailing grandmother and later mother
 - Married long-time NAACP member Raymond Parks in 1932
-	- With his encouragement, Rosa finished her last year of high school the following year and earned her diploma
-- Worked as a seamstress
+- With his encouragement, Rosa finished her last year of high school the following year and earned her diploma
 
 # Roots of activism
 
@@ -20,7 +17,6 @@
 
 - On Dec 1, 1955, Rosa Parks boarded a bus driven by James Blake on her way back home from work
 - 12 years ago, she had clashed with Blake on a similar matter, wherein she refused to disembark and re-enter through the back door after paying her fare
-- In that case, she left the bus after Blake became physically confrontational
 - This time, Rosa boarded the bus and sat down in the section for Blacks at the front
 	- At the time, seats on the bus were segregated by race
 - Some time later, a white man boarded and, upon seeing that there was no spot available in the section for Whites, the driver ordered riders in the first row of the Black section -- including Rosa Parks -- to vacate their spots

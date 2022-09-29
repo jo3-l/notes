@@ -11,8 +11,7 @@
 
 - National Association for the Advancement of Colored Peoples (NAACP) was formed to advocate for these individuals
 - Eisenhower presidency (1953 - 61) was receptive to these demands and implemented progressive changes
-- Precedent-setting Supreme Court case *Brown vs. Board of Education of Topeka* ruled that segregation based on race in public schools ran counter to the Constitution
-	- See notes on [[brown-v-board-of-ed | Brown v. Board of Education]]
+- Precedent-setting Supreme Court case [[brown-v-board-of-ed | Brown vs. Board of Education of Topeka]] ruled that segregation based on race in public schools ran counter to the Constitution
 - Met resistance in South; in one example, Gov. Faubus of Arkanas deployed National Guard to prevent Black students from attending school in Little Rock in 1957
 	- In response, Pres. Eisenhower deployed federal troops to the school and nine black students -- known as the Little Rock Nine -- were able to enter Central High School
 - Freedom rides (inspired by Rosa Parks) was movement wherein black and white sat together and rode on buses together
