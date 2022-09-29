@@ -42,3 +42,15 @@ Can easily see if a relationship exists between two variables, and/or what the r
 
 > [!warning]
 > A graph is not complete without interpretation (drawing curve / line through points.) See [[interpreting-graphs | Interpreting Graphs]] for more. 
+
+# Graphing with Uncertainties
+
+- Ensure to include uncertainties in data tables
+- Uncertainties can be represented in graphs using **uncertainty bars / error bars**
+- Min line: has least slope possible, connects two corners of first and last uncertainty bars
+- Max line: has max slope possible, connects two corners of first and last uncertainty bars
+- Average slope (of best-fit line) is average of the max and min lines $k_{\text{avg}} = \dfrac{k_{\text{max}} + k_{\text{min}}}{2}$
+- Uncertainty of average slope is half of the max and min lines $\dfrac{k_{\text{max}} - k_{\text{min}}}{2}$
+
+> [!note]
+> Sometimes, min/max lines will not pass through all the uncertainty bars, which is fine.
