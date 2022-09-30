@@ -1,51 +1,45 @@
-# Early life
+> [!summary]
+> Dwight D. Eisenhower was the 34th president of the U.S. Having commanded the US troops in Europe in WWII, he was an immensely popular public figure and remained so as president. His presidency was noted for its relative peacefulness despite Cold War tensions, but has been criticized for not doing more to advance civil rights.
+
+# Early Life and Career
 
 - Dwight D. Eisenhower was born on October 14, 1890, in Denison, Texas
-- In the spring of 1891, left Denison for Abilene, Kansas
 - Family was poor; Dwight and his six brothers were introduced to hard work at a young age
-- Entered U.S. Military Academy and West Point, graduating in 1915
+- Enrolled in U.S. Military Academy at West Point post-secondary, graduating in 1915
+- Later selected to attend army's Command and General Staff School after receiving Distinguished Service Medal in WWI; graduated first in a class of 275 in 1926
+- Served in France and Philippines in interwar years
 
-# WWI and interwar
+# Rise to Prominence
 
-- Eisenhower commanded a tank training centre and received the Distinguished Service Medal
-- War ended before he was sent overseas
-- Selected to attend army's Command and General Staff School after the war
-- Graduated first in a class of 275 in 1926 and two years later graduated from the Army War College
-- Served in France and the Philippines, promoted to lieutenant colonel
-
-# WWII
-
-- Eisenhower returned to US shortly after WWII began
-- In March 1941, he became a full colonel; three months later, he was made chief of staff of the Third Army
-- Army Chief of Staff Gen. George C. Marshall took note of Eisenhower for his war game planning abilities, and tapped him for the army's war plans division once the US entered WWII in December 1941
-- There he prepared strategy for an allied invasion of Europe
-- In June 1942, Marshall selected Eisenhower over numerous more technically qualified candidate to command US troops in Europe
+- Returned to US shortly before WWII began
+- War game planning abilities caught attention of Army Chief of Staff George C. Marshall, who tapped Eisenhower for the army's war plan division
+- In June 1942, Marshall appointed Eisenhower Supreme Commander of US troops in Europe E over numerous more technically qualified candidates
 	- Chosen for his knowledge of military strategy in addition to his ability to get along with others
 - Gave the order to launch the Normandy Invasion (D-Day)
 
 # Post-WWII
 
-- Was welcomed as a hero upon returning to the US
-- Pres. Truman named Eisenhower as the replacement for Marshall as chief of staff in November 1945
-- Left active duty in May 1948 and became president of Columbia University
-- Retirement was cut short when Truman asked Eisenhower to become supreme commander of NATO in the fall of 1950
-- Decided to run for president as a Republican in the 1952 election and won handily 442-89 in the electoral college thanks to his personal popularity; he would win again in a landslide four years later despite suffering a heart attack
+- Welcomed as a hero upon returning to the US
+- Named as the replacement for Marshall as chief of staff in November 1945
+- Left active duty in May 1948 to become president of Columbia University
+- Retirement cut short in fall of 1950 when Truman asked Eisenhower to become supreme commander of NATO
+- Ran for president as a Republican in the 1952 election and won handily 442-89 in the electoral college thanks to his personal popularity; won again in a landslide four years later despite suffering a heart attack
 
 # Presidency
 
-## Domestic policy
+## Domestic Policy
 
-- Eisenhower continued the New Deal and Fair Deal programs of Roosevelt and Truman before him
-- Strengthened Social Security program, increased min. wage
-- Created Interstate Highway System in 1956
+- Eisenhower was a moderate Republican, and achieved multiple policy goals despite Democrats controlling Congress
+- Continued New Deal and Fair Deal programs, strengthened Social Security, and increased min. wage
 - Refrained from public criticism of [[mccarthy | Senator McCarthy's anti-communist agenda]] (which impacted civil liberties of many Americans), but privately worked to undermine and discredit McCarthy
-- When the U.S. Supreme Court ruled that school segregation was unconstitutional in [[brown-v-board-of-ed | Brown v. Board of Education]] in 1954, Eisenhower was hesitant to use his authority to enforce the court's verdict, but did end up deploying federal troops to Little Rock, Arkansas in 1957
+- When the U.S. Supreme Court ruled that school segregation was unconstitutional in [[brown-v-board-of-ed | Brown v. Board of Education]] in 1954, Eisenhower was hesitant to use his authority to enforce the court's verdict, but did end up deploying federal troops to Arkansas to force integration in the [[little-rock-nine | Little Rock Nine incident]]
 
 ## Foreign Policy
 
 - Signed an armistice ending Korean War
 - Other than sending combat troops into Lebanon in 1958, Eisenhower did not deploy troops abroad, but readily approved defense spending
-- Sought to improve relations with Russia, which remained cordial throughout his presidency
+- Created NASA in 1958 following the Soviet Union's launch of Sputnik I in 1957
+- Sought to improve relations with Russia, which remained cordial until the last weeks of his presidency (Cuban Missile Crisis)
 
 # Legacy
 
