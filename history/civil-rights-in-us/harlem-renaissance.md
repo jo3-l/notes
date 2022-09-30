@@ -9,7 +9,7 @@
 
 ## Causes
 
-- Though [[13th-amendment || 13th Amendment]] outlawed racism, racial inequality persisted in the South due to so-called "Jim Crow" laws, which dictated what African Americans could and could not do
+- Though [[13th-amendment | 13th Amendment]] outlawed slavery, racial inequality persisted in the South due to so-called "Jim Crow" laws, which dictated what African Americans could and could not do
 	- Also, while Ku Klux Klan was officially dissolved in 1869, underground branches continued running (and so intimidation, violence, and lynching of Blacks continued)
 - WWI led to a shortage of industrial laborers in the North, Midwest and West, as the war halted the tide of European immigration
 - Recruiters put out ads to entice Blacks to move north, and Black newspapers like the *Chicago Defender* shared first-person success accounts

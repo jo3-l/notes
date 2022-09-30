@@ -3,7 +3,7 @@
 
 # NAACP
 
-- NAACP: National Association for Advancement of Colored People; oldest and largest American civil rights organization
+- NAACP: National Association for the Advancement of Colored People; oldest and largest American civil rights organization
 - Founded on February 12, 1909 in NYC by a group of activists following the 1908 Springfield race riot in Illinois, in which a white mob looted businesses, burned homes, and murdered two African Americans
 - Founding members were a mix of progressive whites and African American civil rights activists, including WEB Du Bois, Mary White Ovington, Joel and Arthur Spingarn, Mary McLeod Bethune among others
 - Purpose was to "secure for all people the rights guaranteed in the 13th, 14th, and 15th Amendments to the United States Constitution, which promised an end to slavery, the equal protection of the law, and universal adult male suffrage"

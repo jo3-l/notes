@@ -3,7 +3,7 @@
 
 # History
 
-- In *Plessy v. Freguson* (1896), Supreme Court ruled that segregation in public facilities was legal as long as the facilities for both races were equal in equality ("separate but equal doctrine")
+- In *Plessy v. Ferguson* (1896), Supreme Court ruled that segregation in public facilities was legal as long as the facilities for both races are equal ("separate but equal doctrine")
 - This ruling stood until the 1950s, when the NAACP began filing lawsuits challenging segregation laws in public schools
 - In the case that made its way to the Supreme Court, plaintiff Oliver Brown filed a suit against the Board of Education of Topeka after his daughter was denied access to an all-white elementary school
 - Argued that

@@ -12,14 +12,14 @@
 
 # Buildup to the Civil War
 
-- **1815-1861**: economy of Northern states industrialized and diversified away from agriculture
+- **1815-1861**: economy of Northern states diversified away from agriculture due to industrialization
 - In contrast, Southern economy was based primarily on plantations which produced cotton (and thus was reliant on slaves for labor)
 	- As price of cotton skyrocketed, diversifying seemed unwise
 	- Per-capita wealth of Southern whites was 2x that of Northerners in 1860
 - More and more Northerners began supporting abolishing slavery for moral reasons, making Southerners anxious
 - **1860**: [[lincoln | Abraham Lincoln]], candidate of the antislavery Republican Party, wins the presidential election
 - **February 4, 1861:** South Carolina, Mississippi, Florida, Alabama, Georgia, Louisiana, and Texas secede and form the Confederate States of America
-- **April 2, 1861**: Rebels open fire on Fort Sumter, marking the beginning of the Civil War
+- **April 2, 1861**: Confederate Troops open fire on Fort Sumter, marking the beginning of the Civil War
 - At the start of the Civil War, more than 4 million people, nearly all of African descent, were enslaved
 
 # Emancipation Proclamation
@@ -28,7 +28,7 @@
 > [A]ll persons held as slaves within any States, or designated part of the State, the people whereof shall be in rebellion against the United States, shall be then, thenceforward, and forever free.
 
 - Up to 1862, Lincoln, despite being a lifelong opponent of slavery, was conflicted as to how precisely to deal with the matter
-- However, in 1861, he became convinced that emancipating (i.e., setting free) slaves in Southern states would be a sound strategical move and would help the North win the war
+- However, in 1862, he became convinced that emancipating (i.e., setting free) slaves in Southern states would be a sound strategic move and would help the North win the war
 - As the proclamation applied to states outside Lincoln's control at the time, it had very little effect on actually freeing slaves and was therefore mostly symbolic
 
 # Path to Ratification
