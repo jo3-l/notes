@@ -45,12 +45,21 @@ Can easily see if a relationship exists between two variables, and/or what the r
 
 # Graphing with Uncertainties
 
-- Ensure to include uncertainties in data tables
-- Uncertainties can be represented in graphs using **uncertainty bars / error bars**
-- Min line: has least slope possible, connects two corners of first and last uncertainty bars
-- Max line: has max slope possible, connects two corners of first and last uncertainty bars
-- Average slope (of best-fit line) is average of the max and min lines $k_{\text{avg}} = \dfrac{k_{\text{max}} + k_{\text{min}}}{2}$
-- Uncertainty of average slope is half of the max and min lines $\dfrac{k_{\text{max}} - k_{\text{min}}}{2}$
+Include uncertainties in data tables. Uncertainties are represented graphically using **error bars**. For example, the point $(x_{0}\pm \Delta x, y_{0}\pm \Delta y)$ is plotted as shown:
+
+![[graphing-20220929.19.18.21.excalidraw | 350]]
+
+## Min/max lines
+
+The min line has the minimum slope possible and connects two corners of the first and last error bars. For example:
+
+![[graphing-20220929.19.32.37.excalidraw | 350]]
+
+The uncertainty in the slope can then be expressed as
+
+$$
+\Delta k = \frac{k_{\text{max}} - k_{\text{min}}}{2}
+$$
 
 > [!note]
 > Sometimes, min/max lines will not pass through all the uncertainty bars, which is fine.
