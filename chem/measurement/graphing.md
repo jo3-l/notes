@@ -51,7 +51,7 @@ Include uncertainties in data tables. Uncertainties are represented graphically 
 
 ## Min/max lines
 
-The min line has the minimum slope possible and connects two corners of the first and last error bars. For example:
+The min line has the minimum slope possible and connects two corners of the first and last error bars. Likewise, the max line has the maximum slope possible. For example:
 
 ![[graphing-20220929.19.32.37.excalidraw | 350]]
 
