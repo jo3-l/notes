@@ -5,7 +5,7 @@
 
 - [[brown-v-board-of-ed | Brown v. Board of Education]] made segregation of public schools unconstitutional
 - Due to this and pressure from the local [[naacp | NAACP]] branch, the Little Rock, Arkansas, school board was forced to create a plan for integration, starting with the high schools (including Central High School)
-- Two pro-segregation groups, the Capitals Citizens Council and the Mother's League of Central High School, opposed the plan
+- Two pro-segregation groups, the Capital Citizens' Council and the Mother's League of Central High School, opposed the plan
 	- Mother's League of Central High School was intended to provide a "feminine" slant to the effort, but in reality only 20% of its membership were mothers of Central High School students
 
 # Who were the Little Rock Nine?

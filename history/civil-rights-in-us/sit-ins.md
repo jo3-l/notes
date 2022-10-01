@@ -12,7 +12,7 @@
 
 # Effects
 
-- Disruption and drew unwanted publicity to affected businesses, making voluntary desegregation a more attractive option
+- Disrupted and drew unwanted publicity to affected businesses, making voluntary desegregation a more attractive option
 - Sit-in participants took up spaces for paying customers, leading to economic hardship for business owners
 - Nonviolent and courteous behavior of sit-in participants garnered sympathy from the public and portrayed African Americans as responsible members of society
 - In contrast, abusive and violent behavior of local mobs in their attempts to break up the sit-ins showed the cruelty of the segregated system
