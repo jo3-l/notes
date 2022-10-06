@@ -1,0 +1,10 @@
+- [[naacp | NAACP]]: National Association for the Advancement of Colored People
+	- **Purpose:** Fight against injustices experienced by African Americans (racial violence, segregation, etc.)
+- CORE: Congress on Racial Equality
+	- **Purpose:** End racial segregation in American through non-violent means
+- SNCC: Student Nonviolent Coordinating Committee
+	- **Purpose:** Student-let organization to coordinate and assist direct-action projects to segregation and political exclusion of African Americans
+- SLCC: Southern Christian Leadership Conference
+	- **Purpose:** Coordinate and assist local organizations working for the full equality of African Americans
+- Leadership Conference on Civil and Human Rights
+	- **Purpose:** Umbrella group of American civil rights interest groups
