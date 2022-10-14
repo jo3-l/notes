@@ -3,7 +3,7 @@
 - Stands for "Systéme internationale d'unites"
 - Non-static system derived from 7 base units
 
-## SI symbols
+## SI Symbols
 
 - Almost always lower-case letters unless named for a person (except L for litres)
 - Full names are usually written in lower case letters (except for degrees Celsius)
@@ -13,7 +13,7 @@
 > [!note]
 > Remember to add a space between the numerical value and the unit symbol (5.2 g, not 5.2g).
 
-## SI base units
+## SI Base Units
 
 | Unit name | Unit symbol | Operational definition |
 | --------- | ----------- | ---------------------- |
@@ -25,7 +25,7 @@
 | candela   | $\pu{cd}$   | luminous intensity     |
 | mole      | $\pu{mol}$  | amount of substance    |
 
-## Unit prefixes
+## Unit Prefixes
 
 | Prefix | Symbol                            | Multiplier              |
 | ------ | --------------------------------- | ----------------------- |
@@ -36,9 +36,9 @@
 | Centi  | c                                 | $10^{-2} = 0.01$        |
 | Milli  | m                                 | $10^{-3} = 0.001$       |
 | Micro  | $\mu$                             | $10^{-6} = 0.000001$    |
-| Nano   | n                                 | $10^{-9} = 0.000000001$ | 
+| Nano   | n                                 | $10^{-9} = 0.000000001$ |
 
-## Derived quantities
+## Derived Quantities
 
 - Number made by combining two or more other values
 - Derived unit is a unit made by combining two or more other units
@@ -56,15 +56,16 @@
 - Celsius is the most common scale in most countries
 - Fahrenheit is the imperial unit used in the US
 
-## Converting between SI units
+## Converting Between SI Units
 
 Most simple unit conversions can be done using mental math BUT **in Chem 11 you will need to use the method of unitary rates:**
 
 A conversion factor is a multiplier (100 cm = 1 m)
+
 - To convert a number in cm to one in m you will need to multiply by $\dfrac{\pu{1m}}{\pu{100cm}}$
 - Keep track and write the units as you do the calculations
 - When multiplying units, if the same unit is on the top and bottom they can be crossed out or cancelled
 
-## Unit conversions with exponents
+## Unit Conversions with Exponents
 
 If you are trying to convert a unit that is not squared to one that is squared ($x^2$) or cubed ($x^3$), use the basic conversion factors and square or cube as needed.

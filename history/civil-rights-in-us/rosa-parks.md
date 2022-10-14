@@ -1,7 +1,7 @@
 > [!summary]
 > Rosa Parks, aka the "mother of the civil rights movement", indirectly sparked the Civil Rights movement of the 50s and 60s (hence the name) after being arrested for refusing to give up her seat on a racially segregated bus in Montgomery, Alabama on Dec 1, 1955.
 
-# Early life
+# Early Life
 
 - Born in Tuskegee, Alabama on February 4, 1913
 - Mother was a teacher and thus did her best to provide Rosa with a good education
@@ -9,7 +9,7 @@
 - Married long-time NAACP member Raymond Parks in 1932
 - With his encouragement, Rosa finished her last year of high school the following year and earned her diploma
 
-# Roots of activism
+# Roots of Activism
 
 - Raymond and Rosa became respected members of the local Black civil rights community
 - Despite Raymond's concerns for Rosa's safety, she ended up joining the NAACP as well and became chapter secretary, working closely with president Edgar Daniel "E.D." Nixon
@@ -32,9 +32,9 @@
 - Turnout in the ensuing boycott was massive; taking advantage of the momentum, Nixon formed the Montgomery Improvement Association (MIA) and appointed [[martin-luther-king | Martin Luther King]] as president
 - Lawsuits calling for the end of segregation laws went all the way to the Supreme Court
 - Local white population was highly disgruntled; Nixon and MLK's homes were bombed
-- However, that did not stop the Supreme Court from ruling bus segregation unconstitutional on November 13, 1956 in *Browder v. Gayle*, marking the end of the protests 
+- However, that did not stop the Supreme Court from ruling bus segregation unconstitutional on November 13, 1956 in _Browder v. Gayle_, marking the end of the protests
 
-# Later life
+# Later Life
 
 - Parks moved to Detroit in the wake of the ruling due to sustained harassment and threats
 - Became an aide to Congressman John Conyers Jr. in 1965

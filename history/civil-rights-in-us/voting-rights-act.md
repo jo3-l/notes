@@ -11,7 +11,7 @@
 	- Black people were forced to take literacy tests, which they sometimes failed due to high rate of illiteracy
 	- Some officials in Southern states forced Black voters to perform nigh-impossible tasks such as reciting the Constitution in its entirety
 
-## Selma to Montgomery march
+## Selma to Montgomery March
 
 - **March 7, 1965:** peaceful protestors marching for voting rights in Selma, Alabama were met by state troopers who violently attacked them
 	- Footage of severely beaten/bloodied protesters on national TV angered public
@@ -19,15 +19,15 @@
 - Johnson called for reforms to voting rights in a speech on **March 15, 1965**
 > [!quote]
 > I speak tonight for the dignity of man and the destiny of democracy.
-> 
+>
 > I urge every member of both parties -- Americans of all religions and of all
  colors-from every section of this country -- to join me in that cause.
-> 
+>
 > At times history and fate meet at a single time in a single place to shape a turning point in man 's unending search for freedom. So it was at Lexington and Concord. So it was a century ago at Appomattox. So it was last week in Selma, Alabama.
-> 
+>
 > There is no Negro problem. There is no southern problem. There is no northern problem. There is only an American problem.
 
-# Path to ratification
+# Path to Ratification
 
 - Passed in US senate by 77-19 on **May 26, 1965**
 - After month-long debate, House of Reps passed the bill by 333-85 on **July 9**

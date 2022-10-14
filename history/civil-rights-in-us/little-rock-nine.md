@@ -1,5 +1,5 @@
 > [!summary]
-> The Little Rock Nine incident -- in which nine Black students enrolled at the newly integrated Central High School in Little Rock, Arkansas were met with continued resistance when attempting to enter --  was a test of how well [[brown-v-board-of-ed | Brown v. Board of Education]] would stand up in practice. Arkansas Gov. Faubus deployed the National Guard to prevent the Little Rock Nine's entry and was only stopped by Pres. Eisenhower, who deployed the 101st Airborne to take control. 
+> The Little Rock Nine incident -- in which nine Black students enrolled at the newly integrated Central High School in Little Rock, Arkansas were met with continued resistance when attempting to enter --  was a test of how well [[brown-v-board-of-ed | Brown v. Board of Education]] would stand up in practice. Arkansas Gov. Faubus deployed the National Guard to prevent the Little Rock Nine's entry and was only stopped by Pres. Eisenhower, who deployed the 101st Airborne to take control.
 
 # Context
 
@@ -8,7 +8,7 @@
 - Two pro-segregation groups, the Capital Citizens' Council and the Mother's League of Central High School, opposed the plan
 	- Mother's League of Central High School was intended to provide a "feminine" slant to the effort, but in reality only 20% of its membership were mothers of Central High School students
 
-# Who were the Little Rock Nine?
+# Who Were the Little Rock Nine?
 
 - Group of nine students slated to be the first African Americans to attend Central High School
 - Chosen carefully by the NAACP to ensure that they had the strength to face the resistance they would undoubtedly encounter

@@ -8,7 +8,7 @@
 - Placed an order but were refused service due to their race
 - Eventually asked to leave but stayed until closing instead, returning the next day with a larger group
 - Quickly spread across the country; by the end of February, similar sit-ins had been organized in nine other states
-- Ultimately, approximately 70,000 individuals (Blacks and whites alike) would end up participating in sit-ins 
+- Ultimately, approximately 70,000 individuals (Blacks and whites alike) would end up participating in sit-ins
 
 # Effects
 

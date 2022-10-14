@@ -1,21 +1,21 @@
-# Interpreting data
+# Interpreting Data
 
 - Data points that do not fall within the trend of the others may represent errors.
 - Never connect dots; points represent experimental data that have uncertainties associated with them.
 - "Best fit" line or curve is the best representation of the relationship between the variables. Should be closest to most data points.
 - Interpretation must be shown on the graph, where necessary.
 
-# Interpolation and extrapolation
+# Interpolation and Extrapolation
 
 - **Interpolation** Estimating an unknown point between two known points.
 - **Extrapolation:** Estimating an unknown point outside the range of points by extending the line/curve.
 
-# Determining relationship of variables
+# Determining Relationship of Variables
 
 > [!note]
 > It is possible for there to be no relation between variables at all. This occurs when points are scattered all over the graph without any clear pattern.
 
-### Straight lines
+### Straight Lines
 
 ![[graphing-20220928.16.48.45.excalidraw | 350]]
 

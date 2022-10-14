@@ -4,7 +4,7 @@
 # Context
 
 - Civil rights movement was in full swing by 1964
-	- [[freedom-riders | Freedom Riders]] spent 1961 riding interstate buses in protest of the non-enforcement of *Boynton v. Virginia*
+	- [[freedom-riders | Freedom Riders]] spent 1961 riding interstate buses in protest of the non-enforcement of _Boynton v. Virginia_
 	- [[martin-luther-king | MLK]] delivered his famous speech "I Have a Dream" during the March on Washington in 1963
 - Despite progress, South remained largely segregated, especially at polls
 - African Americans faced violence and intimidation when they attempted to register to vote

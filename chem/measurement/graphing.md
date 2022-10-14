@@ -10,7 +10,7 @@ Can easily see if a relationship exists between two variables, and/or what the r
 - **Independent variable:** variable changed in a controlled way during the experiments. Usually plotted on the horizontal (x) axis.
 - **Dependent variable:** the variable you measure. Usually plotted on the vertical (y) axis.
 
-# Sketch vs. Drawn Graphs
+# Sketch Vs. Drawn Graphs
 
 ## Sketch
 
@@ -26,22 +26,24 @@ Can easily see if a relationship exists between two variables, and/or what the r
 	- Title should be at top of the graph or in the top part of the graph line portion.
 	- Eg., "Volume (of gas produced) vs. Time (of experiment)"
 2. **Axes and labels:** Horizontal is for independent variable and vertical is for independent variable. All measured variables have units, so axis labels must as well.
-   
+
+
    Each axis scale should be linear (or in rare scenarios, logarithmic.) Use scientific notation for very small or very large numbers; do not use fractions.
-   
+
+
    > [!important]
-   > When creating a scale, try to make it so the data points use as much of the graph as possible: for example, if the y-values only go from 0 to 53, do not make the scale be from 0 to 100. 
+   > When creating a scale, try to make it so the data points use as much of the graph as possible: for example, if the y-values only go from 0 to 53, do not make the scale be from 0 to 100.
 
 > [!note] Zero point
 > The origin $(0, 0)$ should be plotted iff two variables represent a valid piece of data when they both have a value of zero.
-> 
+>
 > If there is not a real zero point, or you do not know if one is possible, you should not include one on your graph.
-> 
+>
 >  **Good example:** when there is 0.0g of mass, there is 0.0mL of volume.
 >  **Bad example:** volume of a gas between 40 and 50 degrees. Volume of the gas will not be 0.0mL at 0 degrees.
 
 > [!warning]
-> A graph is not complete without interpretation (drawing curve / line through points.) See [[interpreting-graphs | Interpreting Graphs]] for more. 
+> A graph is not complete without interpretation (drawing curve / line through points.) See [[interpreting-graphs | Interpreting Graphs]] for more.
 
 # Graphing with Uncertainties
 
@@ -49,7 +51,7 @@ Include uncertainties in data tables. Uncertainties are represented graphically 
 
 ![[graphing-20220929.19.18.21.excalidraw | 350]]
 
-## Min/max lines
+## Min/max Lines
 
 The min line has the minimum slope possible and connects two corners of the first and last error bars. Likewise, the max line has the maximum slope possible. For example:
 

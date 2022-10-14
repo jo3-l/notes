@@ -30,13 +30,13 @@
 
 # Conflict with Other Activists
 
-## Birmingham Protests: Negotiation vs Protest
+## Birmingham Protests: Negotiation Vs Protest
 
  - In the spring of 1963, King campaigned along with local protestors to end segregation at lunch counters and in hiring practices, for which he was jailed
 - Some of the white clergy (and even some of the black clergy) looked upon King's practices with disdain, reasoning that negotiation would be far more effective than protest
 	- In response, King wrote an eloquent letter from the Birmingham jail in which he was imprisoned, stating:
 > [!quote]
-> You may well ask: “Why direct action? Why sit-ins, marches and so forth? Isn’t negotiation a better path?” You are quite right in calling for negotiation. Indeed, this is the very purpose of direct action. Nonviolent direct action seeks to create such a crisis and foster such a tension that a community which has constantly refused to negotiate is forced to confront the issue.	
+> You may well ask: “Why direct action? Why sit-ins, marches and so forth? Isn’t negotiation a better path?” You are quite right in calling for negotiation. Indeed, this is the very purpose of direct action. Nonviolent direct action seeks to create such a crisis and foster such a tension that a community which has constantly refused to negotiate is forced to confront the issue.
 
 ## Nonviolence Policy
 

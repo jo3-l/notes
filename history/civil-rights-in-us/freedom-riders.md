@@ -1,10 +1,10 @@
 > [!summary]
-> Freedom Riders were civil rights activists who participated in bus trips in 1961 to draw attention to interstate bus segregation, which ran contrary to the Supreme Court's rulings in *Morgan v. Virginia* and *Boynton v. Virginia*. Despite violent attacks by white mobs, the practice grew in popularity and ultimately pushed the Interstate Commerce Commission to issue regulations prohibiting segregation in interstate transit terminals later that year.
+> Freedom Riders were civil rights activists who participated in bus trips in 1961 to draw attention to interstate bus segregation, which ran contrary to the Supreme Court's rulings in _Morgan v. Virginia_ and _Boynton v. Virginia_. Despite violent attacks by white mobs, the practice grew in popularity and ultimately pushed the Interstate Commerce Commission to issue regulations prohibiting segregation in interstate transit terminals later that year.
 
 # Timeline
 
-- **1946:** U.S Supreme Court rules in *Morgan v. Virginia* that segregation on interstate buses is unconstitutional
-- **1960:** In *Boynton v. Virginia*, Supreme Court extends on previous ruling to include bus terminals, restrooms, and other interstate travel-related facilities
+- **1946:** U.S Supreme Court rules in _Morgan v. Virginia_ that segregation on interstate buses is unconstitutional
+- **1960:** In _Boynton v. Virginia_, Supreme Court extends on previous ruling to include bus terminals, restrooms, and other interstate travel-related facilities
 - **May 4, 1961:** In collaboration with the Congress of Racial Equality (CORE), a group of seven African Americans and six whites leave in two buses bound for New Orleans to test the new ruling
 - **May 12:** A pair of Black and white Freedom Riders are viciously attacked while attempting to enter a whites-only waiting area in Rock Hill, South Carolina
 - **May 13:** Freedom Riders reach Atlanta, Georgia; some split off onto a Trailways bus

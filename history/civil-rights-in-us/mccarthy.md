@@ -1,14 +1,14 @@
 > [!summary]
 > Joseph McCarthy was an American senator who instigated the "Red Scare" in the late 40s and early 50s. In his position as the head of the Committee on Government Operations, he launched baseless investigations into communist infiltration of the US government.
 
-# Early life and career
+# Early Life and Career
 
 - Joseph McCarthy was born November 14, 1908 near Appleton, Wisconsin
 - Served as circuit judge for three years
 - Enlisted in US Marine Corps in WWII
 - Won Republican nomination for the Senate in 1946 and was elected that autumn
 
-# Rise to national spotlight
+# Rise to National Spotlight
 
 - In Feb 1950, at an appearance at the Ohio County Women's Republican Club in West Virgina, McCarthy claimed he had a list of 205 members of the Communist Party "working and shaping policy" in the State Department
 - Senate investigation found no evidence to substantiate McCarthy's claims
@@ -20,7 +20,7 @@
 	- In this role, he launched countless unjustified investigations featuring aggressive interrogations and civil rights abuses
 	- Approximately 2,000 government employees lost their jobs despite having done nothing wrong as a result
 
-# Fall from grace
+# Fall From Grace
 
 - McCarthy's support dwindled over time as more and more people grew tired of his tactics, but up to 1954 he was mostly tolerated
 - However, in April, McCarthy turned his attention to the armed services, claiming that it had been infiltrated by communists

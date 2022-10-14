@@ -8,11 +8,11 @@
 - **1961:** JFK enters office, initially against anti-discrimination methods, but protests convince him to act
 - **June 1963:** JFK proposes early version of Civil Rights Act, but was assassinated in November
 
-# Path to ratification
+# Path to Ratification
 
 - New president [[johnson | Lyndon B. Johnson]] champions Civil Rights Act, stating
-> [!quote]
-> Let this session of Congress be known as the session which did more for civil rights than the last hundred sessions combined.
+  > [!quote]
+  > Let this session of Congress be known as the session which did more for civil rights than the last hundred sessions combined.
 - Southern reps argued bill unconstitutionally usurped liberties and state rights
 - House of Representatives ultimately approved bill by a vote of 290-130
 - Faced long delay in US Senate

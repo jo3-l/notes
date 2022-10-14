@@ -1,4 +1,4 @@
-# Accuracy vs Precision
+# Accuracy Vs. Precision
 
 **Accuracy:** An accurate measurement is close to the actual value.
 
@@ -19,7 +19,6 @@ Assume that the actual width of a room is $\pu{5.32000 m}$, and the following me
 3. $\pu{5.3 m}$: close to actual value but does not have many s.f., so accurate but imprecise.
 5. $\pu{7.1 m}$: not close to actual value and does not have many s.f., so neither accurate nor precise.
 
-
 # Quantifying Accuracy
 
 Accuracy can be quantified as percent deviation from expected value.
@@ -39,5 +38,5 @@ $$
 IB Physics does not use standard deviation, and instead estimates uncertainty as half of the difference between the largest and smallest value:
 
 $$
-\Delta x = \frac{x_{\text{max}} - x_{\text{min}}}{2} 
+\Delta x = \frac{x_{\text{max}} - x_{\text{min}}}{2}
 $$

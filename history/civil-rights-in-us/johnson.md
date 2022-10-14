@@ -1,13 +1,13 @@
 > [!summary]
 > Lyndon B. Johnson was the 36th president of the US. He was a key figure in the ratification of numerous civil rights victories, such as the [[civil-rights-act | Civil Rights Act of 1964]] and the subsequent [[voting-rights-act | Voting Rights Act of 1965]]. However, his legacy is marred by his policy toward the Vietnam war, which ultimately ended in disaster.
 
-# Early life
+# Early Life
 
 - Lyndon Baines Johnson born on August 27, 1908, near Texas community of Johnson City
 - Graduated from Texas State Uni in San Marcos, Texas
 - Taught at school for disadvantaged Mexican-American students to pay for tuition; experience there left deep impression on Johnson
 
-# Congressional career
+# Congressional Career
 
 - Moved to Washington in 1931 to serve as secretary for US Rep Kleberg of Texas
 - Returned home in 1935 to become Texas director of National Youth Administration, a program to help young people find jobs/volunteer work during Great Depression

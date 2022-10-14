@@ -8,7 +8,7 @@
 - **Qualitative observation:** no numbers, e.g., that shirt is red, the solution is warm to the touch
 - **Quantitative observation:** taken using a measuring device, e.g., the thermometer measures $\pu{21.5 \pm 0.5 \degree C}$, the $\ce{[CO2]}$ was measured to be 500 ppm in the room using the Aranet $\ce{[CO2]}$ monitor
 
-## Interpretations 
+## Interpretations
 
 - Inference based on an observation, adds meaning to the observation
 - E.g., a $\ce{[CO2]}$ of 500 ppm means the ventilation is pretty good
@@ -22,21 +22,22 @@
 - Particles move because they have energy
 - Amount of energy particles have determine how fast and how far they will move
 
-# Physical and chemical properties
+# Physical and Chemical Properties
 
-## Physical properties
+## Physical Properties
 
 - A characteristic of a substance that can be observed/measured without changing its identity
 - E.g., color, hardness, malleability, solubility, electrical conductivity, density
 
 **Evidence of physical change:**
+
 - Typically reversible
 - Change in size of shape
 - Change in phase
 
 Energy changes usually do not accompany physical changes, except in phase changes and when a substance dissolves.
 
-## Intensive and extensive physical properties
+## Intensive and Extensive Physical Properties
 
 > [!important] Key Point
 
@@ -44,27 +45,29 @@ Energy changes usually do not accompany physical changes, except in phase change
 
 **Intensive physical properties** depend only on the nature of the substance, not how much is present (e.g., density, melting point, boiling point.) Intensive properties are useful for differentiating different pure substances.
 
-## Chemical properties
+## Chemical Properties
 
 - Substance's potential to undergo chemical change or reaction
 - Describes relationship between substance and other forms of matter
 - E.g., flammability, toxicity, acidity
 
 **Evidence of chemical change:**
+
 - Light or heat is given off
 - Bubbles formed
 - Color changes
 - Precipitate forms
 - Difficult to reverse
 
-# Types of kinetic energy
+# Types of Kinetic Energy
 
 Three types of kinetic energy a molecule can possess:
+
 1. **Rotational energy:** causes a molecule to rotate about an axis (frisbee)
 2. **Vibrational energy:** causes the length of a bond to change (slinky)
 3. **Translational energy:** causes a molecule to move about in space (throw a ball). When a substance is heated, translational energy causes bonds to break.
 
-# States of matter
+# States of Matter
 
 **Temperature and pressure** affect which state matter is in. As the temperature increases, average kinetic energy increases as well so the particles vibrate/rotate/translate more.
 
@@ -96,11 +99,11 @@ Three types of kinetic energy a molecule can possess:
 - Forces between particles are taken as zero
 - Particles vibrate, rotate, and translate faster than in a liquid
 
-# Changes of state
+# Changes of State
 
 ![[matter-20221004.21.19.08.excalidraw | 500]]
 
-## Heating curve of water
+## Heating Curve of Water
 
 ![[water-heating-curve.png]]
 

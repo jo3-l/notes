@@ -1,6 +1,6 @@
 ![[types-of-matter.png]]
 
-# Homogenous mixtures
+# Homogenous Mixtures
 
 Relatively uniform, appears the same throughout, mixture is same no matter where it's sampled.
 
@@ -17,15 +17,20 @@ Concentration of a solution is denoted with $\ce{[]}$ and is a measure of the am
 | solid-in-solid   | alloys (metals melted together)  |
 
 **Colloids** are special homogenous mixtures
+
 * A mixture of 2 phases of matter
+
 * Appear homogenous to the naked eye but are made up of tiny, dispersed particles between $\pu{1nm}$ and $\pu{1\mu m}$, distributed in a solid, liquid, or gas
+
 * Colloid particles can be in a different phase than what they are suspended in
+
 * Remain suspended indefinitely (don't settle out).
+
 * Example: fog, mayonnaise
 
 **Tyndall effect:** scattering of light by colloidal particles; fog is water or ice suspended in air.
 
-# Heterogenous mixtures
+# Heterogenous Mixtures
 
 Composition varies from position to position within the sample and one or more components is visible to the naked eye.
 
@@ -38,11 +43,12 @@ E.g., sugar and sand in a jar. Because the sand is heavier, there's probably mor
 - Because of their greater size they will settle out (sediment) if land standing
 - Usually, solids in liquids or gases (silt in water or dust in air)
 
-# Physical separation of mixtures
+# Physical Separation of Mixtures
 
-## Mechanical separation techniques
+## Mechanical Separation Techniques
 
 **Density separation:** particles with higher density than the medium will sink (sediment)
+
 - **Decanting:** pouring off liquid leaving sediment
 - **Filtration:** separates solid from liquid; pouring through a filter (filter is the filtrate, sediment is the residue.)
 
@@ -53,13 +59,15 @@ E.g., sugar and sand in a jar. Because the sand is heavier, there's probably mor
 **Magnetic separation:** iron filings are magnetic, can separate them out of mixtures of other metals.
 
 **Centrifugation:** rapid spinning increases sinking of particles.
+
 - Used for separating components of blood (red blood cells and platelets sink to bottom, plasma on top; all drugs and metabolites end up in plasma)
 
-## Non-mechanical separation techniques
+## Non-mechanical Separation Techniques
 
 **Chromatography:** a family of techniques used to separate complex mixtures.
 
 There is a stationary phase (does not move) and a mobile phase (does move) which separates components based on their:
+
 - Relative boiling point (gas chromatography)
 - Relative polarity (high performance liquid chromatography
 - Solubility in a solvent (paper chromatography)

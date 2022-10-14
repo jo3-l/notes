@@ -1,6 +1,7 @@
 # What is Physics?
 
 Study of...
+
 - How things move and interact
 - Energy (forces) and matter (particles)
 
@@ -17,7 +18,7 @@ Physics is an experimental discipline, though there are purely theoretical aspec
 | Temperature (T)           | Kelvin (K)    | Celsius (C)                          |
 | Energy ($E_K, E_P$)       |               | Joule ($\pu{J = kg m^2 / s^2}$)      |
 | Luminous intensity (I)    | Candela (cd)  | $\pu{W/m^2}$                         |
-| Charge (q)                |               | Coloumb                              | 
+| Charge (q)                |               | Coloumb                              |
 
 # Accuracy, Precision and Uncertainty
 
@@ -36,4 +37,3 @@ See [[accuracy-and-precision | accuracy and precision]].
 7. Conclusion
 	- Does the data support the hypothesis? How close (percent deviation?)
 	- Sources of uncertainty -- quantify and mention factors not included in hypothesis
-
