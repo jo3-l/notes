@@ -27,9 +27,7 @@ Can easily see if a relationship exists between two variables, and/or what the r
 	- Eg., "Volume (of gas produced) vs. Time (of experiment)"
 2. **Axes and labels:** Horizontal is for independent variable and vertical is for independent variable. All measured variables have units, so axis labels must as well.
 
-
    Each axis scale should be linear (or in rare scenarios, logarithmic.) Use scientific notation for very small or very large numbers; do not use fractions.
-
 
    > [!important]
    > When creating a scale, try to make it so the data points use as much of the graph as possible: for example, if the y-values only go from 0 to 53, do not make the scale be from 0 to 100.

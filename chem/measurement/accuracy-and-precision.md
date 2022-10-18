@@ -1,4 +1,4 @@
-# Accuracy Vs. Precision
+# Accuracy vs Precision
 
 **Accuracy:** An accurate measurement is close to the actual value.
 
