@@ -19,20 +19,28 @@
 
 ### List of Common Polyatomic Ions
 
-| Compound       | Name         |
-| -------------- | ------------ |
-| $\ce{H2CO3^-}$ | bicarbonate  |
-| $\ce{CO3^2-}$  | carbonate    |
-| $\ce{CN^-}$    | cyanide      |
-| $\ce{OH^-}$    | hydroxide    |
-| $\ce{NO3^-}$   | nitrate      |
-| $\ce{NO2^-}$   | nitrite      |
-| $\ce{C2O4^2-}$ | oxalate      |
-| $\ce{ClO4^-}$  | perchlorate  |
-| $\ce{MnO4^-}$  | permanganate |
-| $\ce{SO4^2-}$  | sulfate      |
-| $\ce{SO3^2-}$  | sulfite      |
-| $\ce{SCN^-}$   | thiocyanate  |
+| Compound        | Name         |
+| --------------- | ------------ |
+| $\ce{CH3COO^-}$ | acetate      |
+| $\ce{NH4^+}$    | ammonium     |
+| $\ce{H2CO3^-}$  | bicarbonate  |
+| $\ce{CO3^2-}$   | carbonate    |
+| $\ce{CrO4^2-}$  | chromate     |
+| $\ce{CN^-}$     | cyanide      |
+| $\ce{Cr2O7^2-}$ | dichromate   |
+| $\ce{OH^-}$     | hydroxide    |
+| $\ce{NO3^-}$    | nitrate      |
+| $\ce{NO2^-}$    | nitrite      |
+| $\ce{C2O4^2-}$  | oxalate      |
+| $\ce{ClO4^-}$   | perchlorate  |
+| $\ce{MnO4^-}$   | permanganate |
+| $\ce{PO4^3-}$   | phosphate    |
+| $\ce{SO4^2-}$   | sulfate      |
+| $\ce{SO3^2-}$   | sulfite      |
+| $\ce{SCN^-}$    | thiocyanate  |
+
+> [!note]
+> Ammonium  ($\ce{NH4^+}$) is the only common polyatomic ion with a positive charge.
 
 ### Examples
 
