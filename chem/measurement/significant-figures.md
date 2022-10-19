@@ -93,7 +93,6 @@ When adding/subtracting numbers in scientific notation, change both numbers to t
 
 > [!warning] Common Mistake
 
-
 When performing mixed operations with s.f., **round once at the end, never in intermediate calculations.** Doing the latter may lead to incorrect answers.
 
 For example, consider

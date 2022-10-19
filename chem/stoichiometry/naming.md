@@ -32,7 +32,7 @@
 | $\ce{MnO4^-}$  | permanganate |
 | $\ce{SO4^2-}$  | sulfate      |
 | $\ce{SO3^2-}$  | sulfite      |
-| $\ce{SCN^-}$$  | thiocyanate  |
+| $\ce{SCN^-}$   | thiocyanate  |
 
 ### Examples
 
