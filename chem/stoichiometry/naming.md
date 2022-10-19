@@ -10,7 +10,7 @@
 
    If the ion is multivalent, then use Roman numerals between the cation and anion to represent the charge.
 
-   E.g., in $\ce{MnO2}$, manganese is multivalent. As $\ce{O}$ has a $-2$ charge, the charge on $\ce{Mn}$ must be $+4$ and so we the name of the metal is manganese (IV.)
+   E.g., in $\ce{MnO2}$, manganese is multivalent. As $\ce{O}$ has a $-2$ charge, the charge on $\ce{Mn}$ must be $+4$ and so the name of the metal is manganese (IV.)
 
 2. Write the name of the anion (typically a non-metal) with the suffix -ide added to the end.
    E.g., in $\ce{NaCl}$, chlorine becomes chloride.
