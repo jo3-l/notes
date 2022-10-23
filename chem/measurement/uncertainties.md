@@ -24,8 +24,6 @@ Percentage uncertainty and fractional uncertainty are sometimes collectively ref
 
  **The absolute uncertainty in the final answer must always be quoted to 1 and only 1 s.f. Round if necessary.** E.g., $\pu{(12.34 \pm 0.12)cm}$ should be rounded to $\pu{(12.3 \pm 0.1)cm}$.
 
-
-
 **Always round digits to match the uncertainty**; the value and the absolute uncertainty should have the same number of decimal places. E.g. if a value of $\pu{20.01m}$ is given with an absolute uncertainty of $\pm \pu{0.1m}$, the value should be rounded to $\pu{20.0m} \pm \pu{0.1m}$. Similarly if we have a value of $\pu{10567m}$ with an absolute uncertainty of $\pu{15m}$, the value should be rounded to $\pu{(10570 \pm 15)m}$.
 
 # Sources of Uncertainty
