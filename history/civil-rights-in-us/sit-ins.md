@@ -22,6 +22,7 @@
 - Sit-ins led African Americans to realize that they could change their communities with coordinated action
 - Marked the first major effort by local Blacks in civil rights activism
 - Informed future forms of protests like [[freedom-riders | Freedom Rides]]
+- Led to creation of Student Nonviolent Coordinating Committee (SNCC)
 
 # Sources
 
