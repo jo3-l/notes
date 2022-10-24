@@ -23,9 +23,9 @@
 > [!note]
 > Ammonium  ($\ce{NH4^+}$) is the only common polyatomic ion with a positive charge.
 
-One additional oxygen more than an "-ate" ion is the "per___ate" ion. E.g., since $\ce{SO4^2-}$ is sulfate, $\ce{SO5^2-}$ is persulfate.
+One additional oxygen more than an "-ate" ion is a "per___ate" ion. E.g., since $\ce{SO4^2-}$ is sulfate, $\ce{SO5^2-}$ is persulfate.
 
-One less oxygen than an "-ite" ion is the "hypo___ite" ion. E.g., since $\ce{SO3^2-}$ is sulfite, $\ce{SO2^2-}$ is hyposulfite.
+One less oxygen than an "-ite" ion is a "hypo___ite" ion. E.g., since $\ce{SO3^2-}$ is sulfite, $\ce{SO2^2-}$ is hyposulfite.
 
 Notice the pattern:
 
