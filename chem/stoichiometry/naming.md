@@ -37,20 +37,7 @@ E.g., given magnesium chloride, we know that the two ions are $\ce{Mg^2+}$ and $
 
 # Hydrate
 
-Ionic solids that include water are called hydrates. Must be named with the number of water molecules (as Greek prefixes) attached at the end of the normal name.
-
-| Prefix | Number of $\ce{H2O}$ molecules |
-| ------ | ------------------------------ |
-| mono   | 1                              |
-| di     | 2                              |
-| tri    | 3                              |
-| tetra  | 4                              |
-| penta  | 5                              |
-| hexa   | 6                              |
-| hepta  | 7                              |
-| octa   | 8                              |
-| nona   | 9                              |
-| deca   | 10                             |
+Ionic solids that include water are called hydrates. Must be named with the number of water molecules (as [[naming#Appendix: Greek Prefixes | Greek Prefixes]]) attached at the end of the normal name.
 
 ## Examples
 
@@ -64,7 +51,7 @@ Ionic solids that include water are called hydrates. Must be named with the numb
 
 - Elements on the left side of the periodic table are named first
 - If two elements are in same family, lower one is named first
-- Use Greek prefixes for number of atoms
+- Use [[naming#Appendix: Greek Prefixes | Greek Prefixes]] for number of atoms
 - Add -ide ending to second element
 
 > [!warning]
@@ -117,3 +104,18 @@ Consist of hydrogen and a polyatomic ion. Name depends on ion used:
 | $\ce{HClO2_{(aq)}}$ | chlorous acid     |
 | $\ce{HClO_{(aq)}}$  | hypochlorous acid |
 | $\ce{H3PO4_{(aq)}}$ | phosphoric acid   |
+
+# Appendix: Greek Prefixes
+
+| Number | Prefix |
+| ------ | ------ |
+| 1      | mono   |
+| 2      | di     |
+| 3      | tri    |
+| 4      | tetra  |
+| 5      | penta  |
+| 6      | hexa   |
+| 7      | hepta  |
+| 8      | octa   |
+| 9      | nona   |
+| 10     | deca   |
