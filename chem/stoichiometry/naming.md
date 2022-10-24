@@ -8,39 +8,12 @@
 1. Write the name of the cation (typically a metal.)
    E.g., in  $\ce{NaCl}$, we would write "sodium" first.
 
-   If the ion is multivalent, then use Roman numerals between the cation and anion to represent the charge.
-
-   E.g., in $\ce{MnO2}$, manganese is multivalent. As $\ce{O}$ has a $-2$ charge, the charge on $\ce{Mn}$ must be $+4$ and so the name of the metal is manganese (IV.)
+   If the ion is multivalent, then use Roman numerals between the cation and anion to represent the charge. E.g., in $\ce{MnO2}$, name of the metal is manganese (IV.)
 
 2. Write the name of the anion (typically a non-metal) with the suffix -ide added to the end.
    E.g., in $\ce{NaCl}$, chlorine becomes chloride.
 > [!warning]
 > Do not change the names of polyatomic ions. E.g., $\ce{(NH4)2SO4}$ should be ammonium sulfate.
-
-### List of Common Polyatomic Ions
-
-| Compound        | Name         |
-| --------------- | ------------ |
-| $\ce{CH3COO^-}$ | acetate      |
-| $\ce{NH4^+}$    | ammonium     |
-| $\ce{H2CO3^-}$  | bicarbonate  |
-| $\ce{CO3^2-}$   | carbonate    |
-| $\ce{CrO4^2-}$  | chromate     |
-| $\ce{CN^-}$     | cyanide      |
-| $\ce{Cr2O7^2-}$ | dichromate   |
-| $\ce{OH^-}$     | hydroxide    |
-| $\ce{NO3^-}$    | nitrate      |
-| $\ce{NO2^-}$    | nitrite      |
-| $\ce{C2O4^2-}$  | oxalate      |
-| $\ce{ClO4^-}$   | perchlorate  |
-| $\ce{MnO4^-}$   | permanganate |
-| $\ce{PO4^3-}$   | phosphate    |
-| $\ce{SO4^2-}$   | sulfate      |
-| $\ce{SO3^2-}$   | sulfite      |
-| $\ce{SCN^-}$    | thiocyanate  |
-
-> [!note]
-> Ammonium  ($\ce{NH4^+}$) is the only common polyatomic ion with a positive charge.
 
 ### Examples
 
@@ -58,15 +31,13 @@
 E.g., given magnesium chloride, we know that the two ions are $\ce{Mg^2+}$ and $\ce{Cl^-}$. Balancing gives us $\ce{MgCl2}$.
 
 > [!note] Multivalent Ions
-> To determine the charge of a multivalent ion in an ionic compound, look at the roman numeral after it.
+> To determine the charge of a multivalent ion in an ionic compound, look at the Roman numeral after it.
 >
 > E.g., if in gold (III) bromide, the charge of the gold ion is $+3$ and hence we have $\ce{AuBr3}$.
 
-# Ionics Solids Containing Water
+# Hydrate
 
-When a crystal of an inorganic compound is grown by evaporation, it is often found that the crystal structure will include water molecules.
-
-Ionic solids that include water are called hydrates. They must be named with the number of water molecules (as Greek prefixes) attached at the end of the normal name.
+Ionic solids that include water are called hydrates. Must be named with the number of water molecules (as Greek prefixes) attached at the end of the normal name.
 
 | Prefix | Number of $\ce{H2O}$ molecules |
 | ------ | ------------------------------ |
@@ -88,3 +59,61 @@ Ionic solids that include water are called hydrates. They must be named with the
 | $\ce{FePO4.8H2O}$     | iron (III) phosphate octahydrate  |
 | $\ce{NiCl2.6H2O}$     | nickel (II) chloride hexahydrate  |
 | $\ce{Ca(NO3)2.4H2O}$  | calcium nitrate tetrahydrate      |
+
+# Covalent Compounds
+
+- Elements on the left side of the periodic table are named first
+- If two elements are in same family, lower one is named first
+- Use Greek prefixes for number of atoms
+- Add -ide ending to second element
+
+> [!warning]
+> If the coefficient for first element is 1, do not add "mono": $\ce{CO}$ is carbon monoxide, not monocarbon monoxide.
+
+## Examples
+
+| Compound     | Name                       |
+| ------------ | -------------------------- |
+| $\ce{P4S3}$  | tetraphosphorus trisulfide |
+| $\ce{Si3N4}$ | trisilicon tetranitride    |
+| $\ce{BrF}$   | bromine monofluoride       |
+
+# Acids
+
+Have general formula $\ce{HX_{(aq)}}$ where
+
+- $\ce{H}$ is hydrogen ion
+- $\ce{X}$ is non-metal ion or negatively charged polyatomic ion
+- $\ce{(aq)}$ means aqueous, meaning diluted in $\ce{H2O}$
+
+> [!warning]
+> Do not forget the $\ce{(aq)}$! E.g., $\ce{HF_{(aq)}}$ is hydrofluoric acid, but $\ce{HF}$ is just hydrogen fluoride.
+
+## Binary Acids
+
+Consist of hydrogen and one other element. Name is "hydro___ic acid".
+
+### Examples
+
+| Compound          | Name               |
+| ----------------- | ------------------ |
+| $\ce{HCL_{(aq)}}$ | hydrochloric acid  |
+| $\ce{H2S_{(aq)}}$ | hydrosulfuric acid |
+| $\ce{HI_{(aq)}}$  | hydroiodic acid    |
+
+## Ternary Acids
+
+Consist of hydrogen and a polyatomic ion. Name depends on ion used:
+
+- **"-ate" ions become "-ic"**, e.g., $\ce{SO4^2-}$ is a sulfate ion thus $\ce{H2SO4_{(aq)}}$ is sulfuric acid
+- **"-ite" ions become "-ous"**, e.g., $\ce{SO3^2-}$ is sulfite ion thus $\ce{H2SO3_{(aq)}}$ is sulfurous acid
+
+### Examples
+
+| Compound            | Name              |
+| ------------------- | ----------------- |
+| $\ce{HClO4_{(aq)}}$ | perchloric acid   |
+| $\ce{HClO3_{(aq)}}$ | chloric acid      |
+| $\ce{HClO2_{(aq)}}$ | chlorous acid     |
+| $\ce{HClO_{(aq)}}$  | hypochlorous acid |
+| $\ce{H3PO4_{(aq)}}$ | phosphoric acid   |
