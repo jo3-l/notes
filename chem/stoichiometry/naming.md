@@ -105,8 +105,8 @@ Consist of hydrogen and one other element. Name is "hydro___ic acid".
 
 Consist of hydrogen and a polyatomic ion. Name depends on ion used:
 
-- **"-ate" ions become "-ic"**, e.g., $\ce{SO4^2-}$ is a sulfate ion thus $\ce{H2SO4_{(aq)}}$ is sulfuric acid
-- **"-ite" ions become "-ous"**, e.g., $\ce{SO3^2-}$ is sulfite ion thus $\ce{H2SO3_{(aq)}}$ is sulfurous acid
+- **"-ate" ions become "-ic"**, e.g., $\ce{SO4^2-}$ is sulfate so $\ce{H2SO4_{(aq)}}$ is sulfuric acid
+- **"-ite" ions become "-ous"**, e.g., $\ce{SO3^2-}$ is sulfite so $\ce{H2SO3_{(aq)}}$ is sulfurous acid
 
 ### Examples
 
