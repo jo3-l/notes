@@ -13,6 +13,9 @@ Five variables describe an object in UAM:
 - Displacement $x$
 - Time $t$
 
+> [!danger]
+> IB uses $u$ and $v$ for initial and final velocity respectively.
+
 # Equations
 
 Four main equations that relate variables in UAM.
