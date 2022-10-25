@@ -12,7 +12,7 @@
 | $\ce{H2PO4^-}$  | dihydrogen phosphate            |
 | $\ce{CH3COO^-}$ | acetate                         |
 | $\ce{HCO3^-}$   | hydrogen carbonate; bicarbonate |
-| $\ce{HC2O4^-}$  | hydrogen  oxalate; binoxalate   |
+| $\ce{HC2O4^-}$  | hydrogen oxalate; binoxalate    |
 | $\ce{HSO4^-}$   | hydrogen sulphate; bisulphate   |
 | $\ce{HS^-}$     | hydrogen sulphide; bisulphide   |
 | $\ce{HSO3^-}$   | hydrogen sulphite; bisulphite   |
