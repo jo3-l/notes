@@ -7,8 +7,9 @@
 
 1. Write the name of the cation (typically a metal.)
    E.g., in  $\ce{NaCl}$, we would write "sodium" first.
-
-   If the ion is multivalent, then use Roman numerals between the cation and anion to represent the charge. E.g., in $\ce{MnO2}$, name of the metal is manganese (IV.)
+   - If the ion is multivalent, use Roman numerals between the cation and anion to represent the charge. E.g., in $\ce{MnO2}$, name of the metal is manganese(IV).
+> [!warning]
+> Do _not_ add a space before the charge: manganese(IV) is correct while manganese (IV) is not.
 
 2. Write the name of the anion (typically a non-metal) with the suffix -ide added to the end.
    E.g., in $\ce{NaCl}$, chlorine becomes chloride.
@@ -43,8 +44,8 @@ Ionic solids that include water are called hydrates. Must be named with the numb
 
 | Compound              | Name                              |
 | --------------------- | --------------------------------- |
-| $\ce{FePO4.8H2O}$     | iron (III) phosphate octahydrate  |
-| $\ce{NiCl2.6H2O}$     | nickel (II) chloride hexahydrate  |
+| $\ce{FePO4.8H2O}$     | iron(III) phosphate octahydrate  |
+| $\ce{NiCl2.6H2O}$     | nickel(II) chloride hexahydrate  |
 | $\ce{Ca(NO3)2.4H2O}$  | calcium nitrate tetrahydrate      |
 
 # Covalent Compounds
