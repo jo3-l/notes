@@ -21,7 +21,7 @@
 	- Atomic mass of atom can be found on periodic table
 	- For compound, take atomic masses of constituent elements multiplied by coefficients and add them up
 - Unit is atomic mass units (amu)
-- Denoted by $\ce{A_r}$
+- Denoted by $A_r$
 
 > [!note] Definition of amu
 > 1 amu = $\frac{1}{12}$ of the mass of $\ce{^12_6 C}$.
@@ -50,8 +50,8 @@ A consequence of Avogadro's hypothesis is that 2L of $\ce{H2}$, $\ce{He}$, $\ce{
 # Molar Mass
 
 - Also called relative formula mass or molecular mass
-- Denoted by $\ce{M_r}$
-- Numerically identical to formula mass (amu)
+- Denoted by $M_r$
+- Numerically identical to relative atomic mass (amu); only difference is unit
 
 > [!note] Definition of molar mass
 > The molar mass of a substance is the mass in grams of $\pu{1 mol}$ of the particles that make up the substance.
