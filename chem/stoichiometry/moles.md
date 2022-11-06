@@ -58,3 +58,9 @@ A consequence of Avogadro's hypothesis is that 2L of $\ce{H2}$, $\ce{He}$, $\ce{
 
 > [!warning] Unit of molar mass
 > Molar mass has units of $\pu{g mol^-1}$.
+
+# Molecules vs Formula Units (FU)
+
+Molecules are generally used to describe covalently-bonded substances while formula units are used to describe one neutral formula unit of an ionic compound.
+
+For example, $\ce{NaCl}$ is one FU of sodium chloride, while $\ce{CaF2}$ is one FU of calcium fluoride.

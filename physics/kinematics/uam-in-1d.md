@@ -33,3 +33,11 @@ Four main equations that relate variables in UAM.
 For simple problems that give you several variables, list out the ones you know and the ones you want to know. It's necessary and sufficient to have three known variables in order to figure out the rest. Then, choose the equation above that relates the variables listed and solve.
 
 For more complex problems, the key principle is simple: **always solve for the acceleration first.** From there, you can find all the other desired variables.
+
+# Acceleration Due to Gravity
+
+On Earth, we have that the acceleration due to gravity, $g$, satisfies
+
+$$g \approx \pu{9.8 m/s^2}$$
+
+when the object is relatively close to Earth's surface, i.e., $\text{distance to object from surface} \ll \text{radius}$.
