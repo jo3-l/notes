@@ -26,14 +26,6 @@
 > [!note] Definition of amu
 > 1 amu = $\frac{1}{12}$ of the mass of $\ce{^12_6 C}$.
 
-# Avogadro's Hypothesis
-
-Equal volumes of different gases at the same temperature and pressure contain the same number of particles.
-
-![[avogadro-hypothesis.png | 450]]
-
-A consequence of Avogadro's hypothesis is that 2L of $\ce{H2}$, $\ce{He}$, $\ce{Ne}$, $\ce{N2}$ **all contain the same number of particles!**
-
 # Moles
 
 - SI unit for amount of substance
