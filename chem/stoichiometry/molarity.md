@@ -97,6 +97,10 @@ Putting it together, the mixture is composed of the following ions:
 Since there are two sources of $\ce{Cl^-}$ , we add up the individual concentrations to arrive at our final concentration. There is only one source of $\ce{Ba^2+}$ and $\ce{Na^+}$, so their concentrations remain unchanged.
 
 Thus, our final answer is
-- $\ce{[Ba^{+}]} = \pu{0.0800M}$
-- $\ce{[Cl^{-]}} = \pu{0.400M}$
-- $\ce{[Na^+]} = \pu{0.240 M}$
+$$
+\begin{align*}
+\ce{[Ba^+]} &= \pu{0.0800M} \\
+\ce{[Cl^-]} &= \pu{0.400M} \\
+\ce{[Na^+]} &= \pu{0.240M}
+\end{align*}
+$$
