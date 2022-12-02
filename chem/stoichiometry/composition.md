@@ -59,8 +59,7 @@ Dividing produces a ratio of approximately $\pu{1 mol \ce{Fe}} : \pu{1 mol \ce{S
 To determine molecular formula, calculate the EF and compare its molar mass to that of the MF. The ratio MF/EF should always be a positive integer.
 
 > [!example]
-> A hydrocarbon was found to consist of $\ce{81.8\%}$ carbon and $18.2\%$ hydrogen. Molecular ion measurements in a mass spectrometer show that the hydrocarbon has a molar mass of $\pu{44g/mol}$. What is its molecular formula?
->
+> A hydrocarbon was found to consist of $81.8\%$ carbon and $18.2\%$ hydrogen. Molecular ion measurements in a mass spectrometer show that the hydrocarbon has a molar mass of $\pu{44g/mol}$. What is its molecular formula?
 
 _Solution._ First find the EF. Assume that there is $\pu{100g}$ of the substance. Then we have
 
