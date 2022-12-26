@@ -34,7 +34,7 @@ $$\ce{Na2S_{(aq)} + 2AgNO3_{(aq)} -> 2NaNO3_{(aq)} + \underbrace{Ag2S_{(s)}}_{pr
 _Solution._ We break all the aqueous species into their disassociated forms, leaving the precipitate $\ce{Ag2SO4}$ as is:
 $$
 \begin{gather*}
-\ce{2Ag^+_{(aq)} + 2F^-_{(aq)} + Mg^2+_{(aq)} + SO4^2-_{(aq)} \\ -> 2SO4_{(s)} + Mg^2+_{(aq)} + 2F^-_{(aq)}}
+\ce{2Ag^+_{(aq)} + 2F^-_{(aq)} + Mg^2+_{(aq)} + SO4^2-_{(aq)} \\ -> Ag2SO4_{(s)} + Mg^2+_{(aq)} + 2F^-_{(aq)}}
 \end{gather*}
 $$
 
@@ -46,8 +46,8 @@ $$
 Consider the previous example. Cancelling common species in the net ionic equation, we have
 $$
 \begin{gather*}
-\ce{2Ag^+_{(aq)} + $\cancel{\ce{2F^-_{(aq)}}}$ + $\cancel{\ce{Mg^2+_{(aq)}}}$ + SO4^2-_{(aq)} \\ -> 2SO4_{(s)} + ${\cancel{\ce{Mg^2+_{(aq)}}}}$ + ${\cancel{\ce{2F^-_{(aq)}}}}$}
+\ce{2Ag^+_{(aq)} + $\cancel{\ce{2F^-_{(aq)}}}$ + $\cancel{\ce{Mg^2+_{(aq)}}}$ + SO4^2-_{(aq)} \\ -> Ag2SO4_{(s)} + ${\cancel{\ce{Mg^2+_{(aq)}}}}$ + ${\cancel{\ce{2F^-_{(aq)}}}}$}
 \end{gather*}
 $$
 so the net ionic equation is
-$$\ce{2Ag^+_{(aq)} + SO4^2-_{(aq)} -> 2SO4_{(s)}}.$$
+$$\ce{2Ag^+_{(aq)} + SO4^2-_{(aq)} -> Ag2SO4_{(s)}}.$$
