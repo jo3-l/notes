@@ -33,9 +33,9 @@ To predict the products of a single replacement reaction,
 > [!example]
 > Predict the products of the following reaction: $$\ce{2KI_{(aq)} + Cl2_{(aq)} -> ?}$$
 
-_Solution._ We know that $\ce{Cl}$ will swap with either $\ce{K}$ or $\ce{I}$; as $\ce{Cl}$ is an anion, we expect it to replace $\ce{I}$.
+_Solution._ As elements generally swap with similar elements, we predict that $\ce{Cl}$ will replace $\ce{I}$ (both are anions.)
 
-Looking at the anion reactivity series $\ce{F2 > Cl2 > Br2 > I2}$, we find that $\ce{Cl}$ is indeed more reactive than $\ce{I}$ and so the reaction will occur. Thus, the answer is
+Looking at the anion reactivity series $\ce{F2 > Cl2 > Br2 > I2}$, we find that $\ce{Cl}$ is indeed more reactive than $\ce{I}$ and so the reaction can occur. Thus, the answer is
 $$\ce{2KI_{(aq)} + Cl2_{(aq)} -> 2KCl_{(aq)} + I2_{(s)}}.$$
 
 # Double Replacement
