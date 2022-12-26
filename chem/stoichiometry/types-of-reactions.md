@@ -41,7 +41,7 @@ $$\ce{2KI_{(aq)} + Cl2_{(aq)} -> 2KCl_{(aq)} + I2_{(s)}}.$$
 # Double Replacement
 
 In a double replacement reaction, **cations and anions switch partners** to form two new products. The general form is: $$\ce{AB + CD -> AD + CB}.$$
-An example is aqueous hydrochloric acid reacting with aqueous sodium hydroxide to form aqueous sodium chloride and water: $$\ce{HCl_{(aq)} + NaOH_{(aq)} -> NaCl_{(aq)} + H2O_{(l)}}.$$
+An example is the reaction between potassium iodide and lead nitrate: $$\ce{2KI_{(aq)} + Pb(NO3)2_{(aq)} -> 2KNO3_{(aq)} + PbI2_{(s)}}.$$
 
 # Neutralization
 
