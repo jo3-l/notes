@@ -13,8 +13,8 @@ e.g., $\pu{(5.07 \pm 0.02)g}$ means that we got a measurement of $\pu{5.07g}$, b
 For a measurement $a = a_{0}+ \Delta a$, we have:
 
 - absolute uncertainty = $\Delta a$
-- fractional uncertainty = $\dfrac{\Delta a}{a_0}$
-- percentage uncertainty = $\dfrac{\Delta a}{a_{0}}\times 100\%$
+- fractional uncertainty = $\frac{\Delta a}{a_0}$
+- percentage uncertainty = $\frac{\Delta a}{a_{0}}\times 100\%$
 
 Percentage uncertainty and fractional uncertainty are sometimes collectively referred to as **relative uncertainty.**
 
