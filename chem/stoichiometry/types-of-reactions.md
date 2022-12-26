@@ -45,9 +45,9 @@ An example is aqueous hydrochloric acid reacting with aqueous sodium hydroxide t
 
 # Neutralization
 
-In a neutralization reaction, **an acid and a base react to produce a salt and water.** The general is thus: $$\ce{acid + base = salt + water}.$$
+In a neutralization reaction, **an acid and a base react to produce a salt and water.** The general is thus: $$\ce{acid + base -> salt + water}.$$
 An example is the reaction between hydrochloric acid and sodium hydroxide: $$\ce{HCl_{(aq)} + NaOH_{(aq)} -> NaCl_{(aq)} + H2O_{(l)}}.$$
 
 # Combustion
 
-In a combustion reaction, **a substance reacts with oxygen gas, releasing energy in the form of light and heat.** The general form is: $$\ce{C_{x}H_{y} + O2 -> XCO2 + \frac{Y}{2}H2O}.$$
+In a combustion reaction, **a substance reacts with oxygen gas, releasing energy in the form of light and heat.** The general form is: $$\ce{C_{x}H_{y} + O2 -> XCO2 + \frac{Y}{2}H2O}.$$An example is the burning of naphthalene: $$\ce{C10H8 + 12O2 -> 10CO2 + 4H2O}.$$
